@@ -48,3 +48,8 @@ next-env.d.ts
 # OS
 Thumbs.db
 Desktop.ini
+
+# cloudflare / opennext
+/.open-next/
+/.wrangler/
+.dev.vars

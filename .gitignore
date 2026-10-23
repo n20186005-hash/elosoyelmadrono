@@ -3,11 +3,6 @@
 /.pnp
 .pnp.js
 
-# build outputs
-/.next/
-/out/
-/build
-
 # testing
 /coverage
 
@@ -22,34 +17,21 @@
 .DS_Store
 *.pem
 
-# debug
-npm debug.log*
-yarn debug.log*
+# debug logs
+npm-debug.log*
+yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
 # local env files
 .env*.local
 .env
 
-# vercel
+# vercel / cloudflare
 .vercel
+.wrangler
+.dev.vars
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-Thumbs.db
-Desktop.ini
-
-# cloudflare / opennext
-/.open-next/
-/.wrangler/
-.dev.vars

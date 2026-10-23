@@ -3,29 +3,7 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import type { Metadata } from 'next';
-
-const SITE_CONFIG = {
-  domain: 'elosoyelmadrono.com',
-  baseUrl: 'https://elosoyelmadrono.com',
-  attractionFullName: 'El Oso y el Madroño',
-  attractionShortName: 'El Oso y el Madroño',
-  cityName: 'Madrid',
-  stateProvince: 'Comunidad de Madrid',
-  countryName: { es: 'España', en: 'Spain', zh: '西班牙' },
-  countryCode: 'ES',
-  postalCode: '28013',
-  latitude: 40.4170313,
-  longitude: -3.7027423,
-  mapsShareUrl: 'https://maps.app.goo.gl/6CeTgviM5Pi9HLreA',
-  mapsEmbedSrc:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.6306979585643!2d-3.7027423000000006!3d40.417031300000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287e1994e237%3A0xaf820688ee88e2d1!2z54aK5ZKM5qCR6I6T6ZuV5YOP!5e0!3m2!1szh-CN!2s!4v1788147929433!5m2!1szh-CN!2s',
-  govtTourismUrl: 'https://www.esmadrid.com/',
-  monumentaOfficialUrl:
-    'https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Oso-y-Madrono/?vgnextfmt=default&vgnextoid=e608091d1b9c4510091d1b9c45102e085a0aRCRD&vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD',
-  heroImage: 'https://elosoyelmadrono.com/gallery/el-oso-y-el-madrono%20(1).jpg',
-  nearby1: { es: 'Puerta del Sol', en: 'Puerta del Sol', zh: '太阳门广场' },
-  nearby2: { es: 'Plaza Mayor', en: 'Plaza Mayor', zh: '马约尔广场' },
-};
+import { SITE_CONFIG } from '@/config/site';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -51,14 +29,14 @@ export async function generateMetadata({
   const nearby2 = SITE_CONFIG.nearby2[locale as 'es' | 'en' | 'zh'];
 
   const titles: Record<string, string> = {
-    es: `${SITE_CONFIG.attractionFullName} (${SITE_CONFIG.cityName}) - Guía del visitante y ubicación`,
-    en: `${SITE_CONFIG.attractionFullName} (${SITE_CONFIG.cityName}) - Visitor Guide & Location`,
-    zh: `${SITE_CONFIG.attractionFullName} (${SITE_CONFIG.cityName}) - 游客指南与位置信息`,
+    es: `${SITE_CONFIG.attractionFullName}: cómo llegar y qué ver cerca | ${SITE_CONFIG.cityName}`,
+    en: `${SITE_CONFIG.attractionFullName}: How to Get There & What to See Nearby | ${SITE_CONFIG.cityName}`,
+    zh: `${SITE_CONFIG.attractionFullName}（熊与草莓树雕像）: 怎么去、周边玩什么 | ${SITE_CONFIG.cityName}`,
   };
   const descriptions: Record<string, string> = {
-    es: `Descubre ${SITE_CONFIG.attractionFullName}, el emblemático monumento en ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}. Consulta el mapa de ubicación, detalles de visita, los alrededores de ${nearby1} y consejos de viaje.`,
-    en: `Discover ${SITE_CONFIG.attractionFullName}, the iconic landmark in ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}. View location map, opening details, nearby ${nearby1}, and travel tips.`,
-    zh: `探索 ${SITE_CONFIG.attractionFullName}，位于${country} ${SITE_CONFIG.stateProvince} ${SITE_CONFIG.cityName} 的标志性地标。查看位置地图、参观信息、${nearby1}周边景点及旅行建议。`,
+    es: `Descubre la historia del ${SITE_CONFIG.attractionFullName}, cómo llegar a su ubicación en Puerta del Sol y dónde comer, pasear y disfrutar de ${SITE_CONFIG.cityName} a pie.`,
+    en: `Discover the history of ${SITE_CONFIG.attractionFullName}, how to reach its location in Puerta del Sol, and where to eat, stroll and enjoy ${SITE_CONFIG.cityName} on foot.`,
+    zh: `了解${SITE_CONFIG.attractionFullName}（熊与草莓树雕像）的历史，如何到达太阳门广场的位置，以及在哪里吃饭、散步、享受${SITE_CONFIG.cityName}。`,
   };
   const ogTitles: Record<string, string> = {
     es: `${SITE_CONFIG.attractionFullName} - Guía de viaje en ${SITE_CONFIG.cityName}`,
@@ -230,7 +208,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : locale === 'en' ? 'en' : 'es'} suppressHydrationWarning>
       <head>
-        <link rel="canonical" href={`https://${SITE_CONFIG.domain}`} />
+        <link rel="canonical" href={`https://${SITE_CONFIG.domain}/${locale}`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: touristAttractionLd }}

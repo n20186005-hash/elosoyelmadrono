@@ -2,6 +2,7 @@ import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
+import TopicLinks from '@/components/TopicLinks';
 import BasicInfo from '@/components/BasicInfo';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
@@ -30,6 +31,7 @@ export default async function HomePage({
       <main>
         <Hero />
         <Intro />
+        <TopicLinks locale={locale as 'es' | 'en' | 'zh'} />
         <BasicInfo />
         <HoursSection />
         <TicketsSection />

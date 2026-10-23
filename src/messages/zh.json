@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "埃尔奥索与马德罗尼奥 (El Oso y el Madroño)",
+    "title": "熊与草莓树雕像（El Oso y el Madroño）| 马德里",
     "description": "马德里埃尔奥索与马德罗尼奥完整旅游指南。了解这座标志性雕塑的历史、位置和游览信息。"
   },
   "header": {
@@ -11,10 +11,10 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "El Oso y el Madroño (Madrid)",
+    "title": "熊与草莓树雕像（El Oso y el Madroño）",
     "subtitle": "纪念碑雕塑 · 太阳门广场",
     "rating": "4.6",
-    "reviewCount": "8,893 条评价",
+    "reviewCount": "9,174 条评价",
     "type": "雕塑",
     "openMaps": "在 Google Maps 查看"
   },
@@ -27,7 +27,7 @@
   },
   "intro": {
     "title": "关于 El Oso y el Madroño",
-    "equivalenceStatement": "欢迎来到 **El Oso y el Madroño**，这一景点被公认为马德里市中心的核心 **El Oso y el Madroño**。它坐落于 **西班牙** **马德里自治区** **马德里** 的心脏地带，是前往该地区游客的首要地标与集散中心。",
+    "equivalenceStatement": "**El Oso y el Madroño（熊与草莓树雕像）** 是 **太阳门广场（Puerta del Sol）** 上最具标志性的合影地标，位于 **马德里** 市中心。它象征着马德里的城徽，坐落于公共空间、免费参观，步行片刻即达 **马约尔广场（Plaza Mayor）** 与 **文学区（Barrio de las Letras）**。",
     "description": "埃尔奥索与马德罗尼奥（El Oso y el Madroño）是马德里最具标志性的纪念碑之一。位于著名的太阳门广场，这个象征代表着马德里的城徽，是当地人和游客必去的聚会点。",
     "nearbyCluster": "游览 **El Oso y el Madroño** 时，游客可便捷探索周边的历史地标与景点，包括 **太阳门广场（Puerta del Sol）** 与 **马约尔广场（Plaza Mayor）**。",
     "visitGuide": {
@@ -157,7 +157,7 @@
     "ownership": "产权归属",
     "ownershipValue": "市政公产（马德里市议会）",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (8,893)",
+    "googleRatingValue": "4.6 (9,174)",
     "address": "地址",
     "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
     "plusCode": "Plus Code",
@@ -331,7 +331,7 @@
   },
   "mapSection": {
     "title": "地图位置",
-    "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
+    "subtitle": "Puerta del Sol, 1, Centro, 28013 Madrid, 西班牙",
     "openMaps": "在 Google Maps 查看",
     "mapLink": "https://maps.app.goo.gl/6CeTgviM5Pi9HLreA",
     "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.6306979585643!2d-3.7027423000000006!3d40.417031300000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287e1994e237%3A0xaf820688ee88e2d1!2z54aK5ZKM5qCR6I6T6ZuV5YOP!5e0!3m2!1szh-CN!2s!4v1788147929433!5m2!1szh-CN!2s",
@@ -522,7 +522,7 @@
       {
         "id": "taxi",
         "title": "出租车与 VTC 预约车辆停靠点",
-        "desc": "太阳门广场本身划定有马德里市出租车（白车绿条）官方上客区，以及经过市政许可的 VTC（网约预约车）上客点。马德里出租采用车上明示计价器计费，也可通过官方授权移动应用呼叫。"
+        "desc": "太阳门广场内部为受保护的步行空间，禁止停车或临时停靠，因此广场本身不设出租上客区；最近的官方出租车站位于周边街道（阿尔卡拉街 Calle de Alcalá、圣赫罗尼莫大道 Carrera de San Jerónimo、卡门街 Calle del Carmen），并设有经市政许可的 VTC（网约预约车）上客点。马德里出租车为白色车身、前车门有红色斜带，车上明示计价器，也可通过官方授权移动应用呼叫。"
       },
       {
         "id": "pmr",

@@ -14,7 +14,7 @@
     "title": "El Oso y el Madroño (Madrid)",
     "subtitle": "Escultura monumental · Puerta del Sol",
     "rating": "4.6",
-    "reviewCount": "8,893 reseñas",
+    "reviewCount": "9,174 reseñas",
     "type": "Escultura",
     "openMaps": "Ver en Google Maps"
   },
@@ -27,7 +27,7 @@
   },
   "intro": {
     "title": "Sobre El Oso y el Madroño",
-    "equivalenceStatement": "Bienvenido a **El Oso y el Madroño**, reconocido universalmente como el **El Oso y el Madroño** central. Situado en el corazón de **Madrid**, **Comunidad de Madrid**, **España**, este destino constituye un punto de referencia primordial para quienes visitan la región.",
+    "equivalenceStatement": "**El Oso y el Madroño** es el monumento más fotografiado de la **Puerta del Sol**, en pleno centro de **Madrid**. Representa el escudo de la ciudad y se visita de forma gratuita en un espacio público, a pocos pasos de **Plaza Mayor** y del **Barrio de las Letras**.",
     "description": "El Oso y el Madroño es uno de los monumentos más emblemáticos de Madrid. Situado en la famosa Puerta del Sol, este icono representa el escudo de la ciudad y es un punto de encuentro obligado para locales y turistas.",
     "nearbyCluster": "Al visitar **El Oso y el Madroño**, los visitantes pueden explorar con facilidad monumentos históricos y lugares de interés de los alrededores, entre ellos **Puerta del Sol** y **Plaza Mayor**.",
     "visitGuide": {
@@ -157,7 +157,7 @@
     "ownership": "Titularidad",
     "ownershipValue": "Municipal (Ayuntamiento de Madrid)",
     "googleRating": "Valoración Google",
-    "googleRatingValue": "4.6 (8,893)",
+    "googleRatingValue": "4.6 (9,174)",
     "address": "Dirección",
     "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, España",
     "plusCode": "Plus Code",
@@ -522,7 +522,7 @@
       {
         "id": "taxi",
         "title": "Paradas oficiales de taxi y VTC",
-        "desc": "Parada oficial de taxis municipales en la propia Puerta del Sol, junto con puntos de subida para vehículos VTC autorizados por el Ayuntamiento. Los taxis madrileños son de color blanco con franja verde y disponen de taxímetro visible; pueden ser también solicitados por aplicación móvil."
+        "desc": "No existe parada de taxis dentro de la propia Puerta del Sol, ya que la plaza es un espacio peatonal protegido donde está prohibido estacionar o detenerse en su interior. Las paradas oficiales más cercanas se encuentran en las calles adyacentes (Calle de Alcalá, Carrera de San Jerónimo y Calle del Carmen), junto con puntos de subida para vehículos VTC autorizados por el Ayuntamiento. Los taxis madrileños son de color blanco con una banda roja diagonal en la puerta delantera y disponen de taxímetro visible; pueden solicitarse también por aplicación móvil."
       },
       {
         "id": "pmr",

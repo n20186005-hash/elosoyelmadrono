@@ -14,7 +14,7 @@
     "title": "El Oso y el Madroño (Madrid)",
     "subtitle": "Monumental Sculpture · Puerta del Sol",
     "rating": "4.6",
-    "reviewCount": "8,893 reviews",
+    "reviewCount": "9,174 reviews",
     "type": "Sculpture",
     "openMaps": "View on Google Maps"
   },
@@ -27,7 +27,7 @@
   },
   "intro": {
     "title": "About El Oso y el Madroño",
-    "equivalenceStatement": "Welcome to **El Oso y el Madroño**, widely recognized as the central **El Oso y el Madroño**. Located in the heart of **Madrid**, **Community of Madrid**, **Spain**, this destination serves as a primary hub for travelers visiting the region.",
+    "equivalenceStatement": "**El Oso y el Madroño** is the most photographed monument in **Puerta del Sol**, right in the heart of **Madrid**. It represents the city's coat of arms and is free to visit in a public space, just steps from **Plaza Mayor** and the **Literary Quarter**.",
     "description": "El Oso y el Madroño is one of Madrid's most iconic monuments. Located in the famous Puerta del Sol, this symbol represents the city's coat of arms and is a must-visit meeting point for locals and tourists alike.",
     "nearbyCluster": "When visiting **El Oso y el Madroño**, visitors can easily explore surrounding historical landmarks and points of interest, including **Puerta del Sol** and **Plaza Mayor**.",
     "visitGuide": {
@@ -157,7 +157,7 @@
     "ownership": "Ownership",
     "ownershipValue": "Municipal (Madrid City Council)",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (8,893)",
+    "googleRatingValue": "4.6 (9,174)",
     "address": "Address",
     "addressValue": "Puerta del Sol, 1, Centro, 28013 Madrid, Spain",
     "plusCode": "Plus Code",
@@ -522,7 +522,7 @@
       {
         "id": "taxi",
         "title": "Official taxi and VTC ranks",
-        "desc": "An official licensed Madrid taxi rank is located directly on Puerta del Sol, together with pick-up points for VTC (private hire) vehicles authorised by the City Council. Madrid taxis are white with a green stripe, use a visible taximeter, and can also be booked via mobile apps."
+        "desc": "There is no taxi rank inside Puerta del Sol itself, since the square is a protected pedestrian space where stopping and parking are prohibited. The nearest official taxi ranks are on the surrounding streets (Calle de Alcalá, Carrera de San Jerónimo and Calle del Carmen), together with pick-up points for VTC (private hire) vehicles authorised by the City Council. Madrid taxis are white with a red diagonal band on the front door, use a visible taximeter, and can also be booked via mobile apps."
       },
       {
         "id": "pmr",

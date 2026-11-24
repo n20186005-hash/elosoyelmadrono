@@ -8,8 +8,6 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import TopicPage from '@/components/TopicPage';
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return locales.flatMap((locale) =>
     TOPIC_SLUGS.map((slug) => ({ locale, topic: slug })),

@@ -25,28 +25,34 @@ export async function generateMetadata({
   const data = getTopic(topic);
   if (!data) return {};
 
+  const currentLocale = locale as (typeof locales)[number];
+  const title = data.metaTitle[currentLocale] ?? data.metaTitle.es;
+  const description = data.description[currentLocale] ?? data.description.es;
+  const photo = data.place?.photo;
   const path = `/${locale}/${topic}`;
   const canonical = `https://${SITE_CONFIG.domain}${path}`;
   const languages: Record<string, string> = {
-    'es-ES': `https://${SITE_CONFIG.domain}/es/${topic}`,
-    'en-US': `https://${SITE_CONFIG.domain}/en/${topic}`,
-    'zh-CN': `https://${SITE_CONFIG.domain}/zh/${topic}`,
+    'es': `https://${SITE_CONFIG.domain}/es/${topic}`,
+    'en': `https://${SITE_CONFIG.domain}/en/${topic}`,
+    'zh': `https://${SITE_CONFIG.domain}/zh/${topic}`,
     'x-default': `https://${SITE_CONFIG.domain}/es/${topic}`,
   };
 
   return {
-    title: data.metaTitle[locale as keyof typeof data.metaTitle] ?? data.metaTitle.es,
-    description: data.description[locale as keyof typeof data.description] ?? data.description.es,
+    title,
+    description,
     alternates: { canonical, languages },
     robots: { index: true, follow: true },
     openGraph: {
       type: 'website',
       url: canonical,
-      title: data.metaTitle[locale as keyof typeof data.metaTitle] ?? data.metaTitle.es,
-      description: data.description[locale as keyof typeof data.description] ?? data.description.es,
+      title,
+      description,
       siteName: SITE_CONFIG.siteName,
+      ...(photo && { images: [{ url: photo, alt: data.title[currentLocale] }] }),
       locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'es_ES',
     },
+    ...(photo && { twitter: { card: 'summary_large_image', title, description, images: [photo] } }),
   };
 }
 
@@ -63,7 +69,7 @@ export default async function TopicRoute({
 
   return (
     <>
-      <Header />
+      <Header solid />
       <TopicPage topic={data} locale={locale as (typeof locales)[number]} />
       <Footer />
     </>

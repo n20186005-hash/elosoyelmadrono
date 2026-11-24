@@ -1,5 +1,6 @@
 import type { Locale } from '@/i18n/routing';
 import { getTopic } from '@/lib/topics';
+import { nearbyGroups, nearbyTitle } from '@/lib/nearby';
 
 type Group = { title: string; items: string[] };
 
@@ -60,13 +61,10 @@ const GROUPS: Record<Locale, Group[]> = {
   ],
 };
 
-export default function TopicLinks({ locale }: { locale: Locale }) {
-  const groups = GROUPS[locale];
-  const heading =
-    locale === 'es' ? 'Guías para tu visita' : locale === 'en' ? 'Guides for your visit' : '为你的行程准备的导览';
+function TopicGroupLinks({ groups, locale, heading, id }: { groups: Group[]; locale: Locale; heading: string; id?: string }) {
 
   return (
-    <section className="section-padding bg-[var(--bg-tertiary)]">
+    <section id={id} className="section-padding bg-[var(--bg-tertiary)] scroll-mt-16">
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
         <h2 className="font-display text-2xl sm:text-3xl font-bold mb-8 text-center">{heading}</h2>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
@@ -97,5 +95,17 @@ export default function TopicLinks({ locale }: { locale: Locale }) {
         </div>
       </div>
     </section>
+  );
+}
+
+export default function TopicLinks({ locale }: { locale: Locale }) {
+  const heading =
+    locale === 'es' ? 'Guías para tu visita' : locale === 'en' ? 'Guides for your visit' : '为你的行程准备的导览';
+
+  return (
+    <>
+      <TopicGroupLinks groups={GROUPS[locale]} locale={locale} heading={heading} />
+      <TopicGroupLinks groups={nearbyGroups(locale)} locale={locale} heading={nearbyTitle[locale]} id="nearby" />
+    </>
   );
 }

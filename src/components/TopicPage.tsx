@@ -2,6 +2,7 @@ import { setRequestLocale } from 'next-intl/server';
 import { SITE_CONFIG } from '@/config/site';
 import type { Locale } from '@/i18n/routing';
 import RichInline from '@/components/RichInline';
+import NearbyVisit, { nearbyUi } from '@/components/NearbyVisit';
 import { getTopic, type TopicContent } from '@/lib/topics';
 
 export default function TopicPage({
@@ -17,6 +18,9 @@ export default function TopicPage({
   const topicPath = `/${locale}/${topic.slug}`;
   const canonical = `https://${SITE_CONFIG.domain}${topicPath}`;
   const domain = `https://${SITE_CONFIG.domain}`;
+  const place = topic.place;
+  const labels = nearbyUi[locale];
+  const mapUrl = place && `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.mapQuery)}`;
 
   const breadcrumbList = {
     '@context': 'https://schema.org',
@@ -53,12 +57,14 @@ export default function TopicPage({
   const webPage = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    '@id': `${domain}#webpage-${topic.slug}`,
+    '@id': `${canonical}#webpage`,
     url: canonical,
     name: topic.metaTitle[locale],
     description: topic.description[locale],
     inLanguage: locale,
-    about: { '@id': `${domain}#attraction` },
+    about: place
+      ? { '@type': 'Place', name: topic.title[locale], address: place.address, hasMap: mapUrl }
+      : { '@id': `${domain}#attraction` },
     isPartOf: { '@id': `${domain}#website` },
   };
 
@@ -84,7 +90,7 @@ export default function TopicPage({
 
       <main>
         <section className="section-padding">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-8">
             <nav aria-label="Breadcrumb" className="text-sm mb-6 text-[var(--text-muted)]">
               <a href={homePath} className="underline-offset-2 hover:underline">
                 {SITE_CONFIG.attractionFullName}
@@ -98,6 +104,13 @@ export default function TopicPage({
               <RichInline text={topic.intro[locale]} />
             </p>
 
+            {mapUrl && (
+              <div className="flex flex-wrap gap-x-6 gap-y-2 mb-8">
+                <a className="underline underline-offset-4" href="#visit-map">{labels.map}</a>
+                <a className="underline underline-offset-4" href={`${homePath}#nearby`}>{labels.nearby}</a>
+              </div>
+            )}
+
             {topic.sections.map((section) => (
               <section key={section.id ?? section.title[locale]} className="mb-8">
                 <h2 className="font-display text-2xl font-semibold mb-3 mt-10">
@@ -108,6 +121,8 @@ export default function TopicPage({
                 </p>
               </section>
             ))}
+
+            {place && mapUrl && <NearbyVisit place={place} locale={locale} mapUrl={mapUrl} />}
 
             <section className="mb-8">
               <h2 className="font-display text-2xl font-semibold mb-3 mt-10">{faqHeading}</h2>

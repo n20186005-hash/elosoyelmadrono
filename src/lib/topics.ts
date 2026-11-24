@@ -1,3 +1,4 @@
+import { nearbyTopics } from './nearby';
 import type { Locale } from '@/i18n/routing';
 
 export type TopicSection = {
@@ -22,6 +23,16 @@ export type TopicContent = {
   faq: TopicFaq[];
   related: string[];
   updated: Record<Locale, string>;
+  place?: {
+    address: string;
+    walk: Record<Locale, string>;
+    visit: Record<Locale, string>;
+    mapQuery: string;
+    caption: Record<Locale, string>;
+    source: string;
+    photo: string;
+    photoSource: string;
+  };
 };
 
 const HOME: Record<Locale, string> = {
@@ -1287,7 +1298,7 @@ export const TOPICS: TopicContent[] = [
 ];
 
 export function getTopic(slug: string): TopicContent | undefined {
-  return TOPICS.find((t) => t.slug === slug);
+  return TOPICS.find((t) => t.slug === slug) ?? nearbyTopics.find((t) => t.slug === slug);
 }
 
-export const TOPIC_SLUGS: string[] = TOPICS.map((t) => t.slug);
+export const TOPIC_SLUGS: string[] = [...TOPICS, ...nearbyTopics].map((t) => t.slug);

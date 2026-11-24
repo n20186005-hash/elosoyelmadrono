@@ -67,7 +67,7 @@ export default async function TopicRoute({
 
   return (
     <>
-      <Header solid />
+      <Header solid={!data.place} />
       <TopicPage topic={data} locale={locale as (typeof locales)[number]} />
       <Footer />
     </>

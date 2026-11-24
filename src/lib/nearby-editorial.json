@@ -1,0 +1,1397 @@
+{
+  "real-casa-de-correos": {
+    "scene": {
+      "es": "Empieza con la vista baja de la placa del Kilómetro Cero y busca después el reloj sin moverte. La diferencia de altura explica por qué la gente se agrupa en dos puntos distintos: cerca de la fachada para leer el suelo y en medio de Sol para seguir las campanadas.",
+      "en": "Start at the Kilometre Zero plaque and then find the clock without moving. The change in height explains why people gather in different places: at the façade to read the pavement and in the middle of Sol to watch the clock strike.",
+      "zh": "站在零公里标记旁低头读地面，再留在原地找钟。两者的高度差解释了人群为何分成两处：读标记的人靠近建筑，跨年看钟的人则要退到广场中央。"
+    },
+    "photography": {
+      "es": "Desde el centro de Sol encuadra el reloj con las dos alas de ladrillo. Acércate para una segunda foto vertical de la placa, sin quedarte en el paso hacia la puerta.",
+      "en": "From the centre of Sol frame the clock between the brick wings. Move closer for a second, downward view of the plaque, keeping the doorway clear.",
+      "zh": "从广场中央拍钟楼与两侧砖墙，再走近俯拍地面标记，不要停在通往大门的通道上。"
+    },
+    "hours": {
+      "es": "La fachada y el reloj se ven desde Sol. El inmueble es sede de la Presidencia regional; sus puertas solo se abren al público en actividades anunciadas. En Nochevieja consulta los controles de aforo de la plaza.",
+      "en": "The front and clock are visible from Sol. The building houses the regional presidency and opens to visitors for announced activities. Check square capacity controls on New Year’s Eve.",
+      "zh": "从太阳门可见大楼和钟楼。这里是自治区政府办公地，内部按公告活动开放。跨年夜请核对广场限流安排。"
+    },
+    "price": {
+      "es": "La fachada, el reloj y la placa de Kilómetro Cero se ven gratis desde el exterior. Para entrar con motivo de una actividad consulta su convocatoria propia.",
+      "en": "The façade, clock and Kilometre Zero plaque can be seen free from outside. Check the individual event notice for indoor admission.",
+      "zh": "外观、钟楼和零公里标记均可从公共街面免费欣赏。因活动入内请看具体公告。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Real_Casa_de_Correos",
+    "stages": {
+      "es": [
+        "Acera sur de Puerta del Sol",
+        "Placa del Kilómetro Cero junto a Correos",
+        "Vista del reloj desde el centro de la plaza"
+      ],
+      "en": [
+        "South pavement of Puerta del Sol",
+        "Kilometre Zero plaque beside Correos",
+        "Clock viewed from the centre of Sol"
+      ],
+      "zh": [
+        "太阳门南侧人行道",
+        "邮政大楼旁的零公里牌",
+        "从广场中央看钟楼"
+      ]
+    }
+  },
+  "estatua-carlos-iii": {
+    "scene": {
+      "es": "Empieza a la altura del pedestal y camina unos pasos a un lado. La silueta del caballo se separa entonces de las fachadas de Sol. Compara la escala del caballo con las personas que atraviesan hoy la antigua plaza del monarca.",
+      "en": "Begin level with the pedestal and walk a few steps to one side. The horse’s silhouette separates from the buildings. Compare its scale with the people crossing the king’s old square today.",
+      "zh": "先站到基座侧面，再横移几步，直到马的轮廓与广场周边立面分开。以今天穿行的行人为参照，能更直观地看出骑马像的尺度。"
+    },
+    "photography": {
+      "es": "Desde un lateral busca el perfil completo del caballo; desde más atrás incluye el reloj de Correos solo si queda separado de la cabeza del jinete.",
+      "en": "From one side isolate the whole horse in profile. Further back, include the Correos clock only if it clears the rider’s head.",
+      "zh": "从侧面完整拍出马的轮廓，再退后把邮政大楼的钟收入画面，避免钟塔与骑手头部重叠。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Estatua_ecuestre_de_Carlos_III",
+    "stages": {
+      "es": [
+        "Centro peatonal de Sol",
+        "Perfil del caballo junto al pedestal",
+        "Salida por Mayor hacia el otro monumento ecuestre"
+      ],
+      "en": [
+        "Pedestrian centre of Sol",
+        "Side view of the horse beside its base",
+        "Exit via Mayor towards the next equestrian monument"
+      ],
+      "zh": [
+        "太阳门中央步行区",
+        "从基座侧面看马",
+        "沿马约尔街续访另一座骑马像"
+      ]
+    }
+  },
+  "mariblanca": {
+    "scene": {
+      "es": "Localiza la salida de Arenal y mira hacia arriba antes de entrar en la calle. La figura blanca destaca sobre su pedestal estrecho; junto a ella se entiende mejor la pequeña escala de la antigua fuente en una plaza hoy muy abierta.",
+      "en": "Find the Arenal exit and look up before entering the street. The pale figure stands out on its slim pedestal; looking from close by gives a sense of the old fountain’s modest scale in today’s open square.",
+      "zh": "到阿雷纳尔街口先抬头看，白色人物立在窄长基座上。从近处看它，再回望开阔的太阳门广场，更能体会昔日喷泉尺度有多小。"
+    },
+    "photography": {
+      "es": "Desde la salida de Arenal separa la figura de los rótulos del fondo. Gira hacia la plaza para incluir el pedestal y mostrar la altura a la que se ve la réplica.",
+      "en": "From the Arenal entrance separate the figure from the shop signs. Turn towards the square to include the pedestal and show how high the replica sits.",
+      "zh": "在阿雷纳尔街口移步避开背景招牌，再转向广场拍下整个基座，表现复制像高高架起的位置。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://www.esmadrid.com/madrid-clasico",
+    "stages": {
+      "es": [
+        "Extremo de Sol hacia Arenal",
+        "Pedestal y réplica blanca",
+        "Arenal hacia el atrio de San Ginés"
+      ],
+      "en": [
+        "Arenal end of Sol",
+        "Pedestal and white replica",
+        "Arenal towards the San Ginés forecourt"
+      ],
+      "zh": [
+        "太阳门靠阿雷纳尔街一端",
+        "基座与白色复制像",
+        "沿阿雷纳尔街前往圣希内斯堂前庭"
+      ]
+    }
+  },
+  "cartel-tio-pepe": {
+    "scene": {
+      "es": "Busca primero la silueta de la guitarra y luego el contorno de la botella. El sombrero y la chaquetilla hacen legible la figura desde el otro lado de Sol; de cerca, la cubierta del número 11 ayuda a entender su escala.",
+      "en": "Find the guitar outline before tracing the bottle. Hat and short jacket make the figure legible from across Sol; closer to number 11, the roofline gives a better sense of scale.",
+      "zh": "先找吉他的外轮廓，再沿着瓶身辨认人物。帽子和短外套使形象隔着整个广场也清晰可辨，靠近11号再看屋顶，就能估出招牌的尺度。"
+    },
+    "photography": {
+      "es": "Desde el sector central de Sol incluye las ventanas bajo el rótulo. Después encuadra solo botella, sombrero y guitarra contra el cielo para mostrar cómo funciona la silueta.",
+      "en": "From central Sol include the windows beneath the sign. Then frame bottle, hat and guitar against the sky to show how the silhouette works.",
+      "zh": "先从太阳门中央把招牌下的窗户一并拍入，再将瓶身、帽子和吉他单独衬在天空上。"
+    },
+    "hours": {
+      "es": "El exterior se ve desde la zona peatonal durante el paseo. Si te interesa el rótulo iluminado, vuelve al anochecer; los horarios del comercio o cine del inmueble no determinan el acceso a la plaza.",
+      "en": "View the exterior from the pedestrian area. For an illuminated sign return around dusk; retail or cinema hours do not govern access to the square.",
+      "zh": "外观可从步行区观看。想拍发光招牌可黄昏再来。楼内商店或影院营业时间不决定广场开放时间。"
+    },
+    "price": {
+      "es": "La observación desde la plaza es gratuita. El rótulo no dispone de una entrada turística propia; los servicios comerciales en el edificio se pagan por separado.",
+      "en": "Viewing from the square is free. The sign has no separate visitor ticket and commercial services inside have their own prices.",
+      "zh": "从广场观赏建筑与招牌免费，招牌本身不售观光票，楼内商业服务另计。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://www.esmadrid.com/madrid-clasico",
+    "stages": {
+      "es": [
+        "Espacio abierto en Puerta del Sol",
+        "Azotea sobre el número 11",
+        "Vista opuesta hacia el reloj de Correos"
+      ],
+      "en": [
+        "Open space in Puerta del Sol",
+        "Rooftop above number 11",
+        "Turn towards the Correos clock"
+      ],
+      "zh": [
+        "太阳门开阔地带",
+        "11号楼顶",
+        "转向邮政大楼看钟"
+      ]
+    }
+  },
+  "iglesia-san-gines": {
+    "scene": {
+      "es": "Entra desde Arenal solo si lo permite el culto. Detente bajo los arcos antes de cruzar la puerta: el ruido de la calle comercial cambia ya en ese umbral. Dentro, recorre primero un lateral para no interrumpir el eje de la nave.",
+      "en": "Enter from Arenal when worship permits. Pause beneath the porch before crossing the door: even there the sound of the shopping street changes. Inside, follow a side aisle first to keep the main nave clear.",
+      "zh": "礼拜安排允许时，从阿雷纳尔街一侧进入。先在拱廊下停步，商业街的喧闹到了这个门槛就开始变化。入内沿侧廊走，可避免占住主堂中轴。"
+    },
+    "photography": {
+      "es": "Desde el atrio mira a lo largo de los arcos para apreciar su profundidad. Para fotografiar las capillas o una pintura pide permiso en la iglesia y espera a que termine el oficio.",
+      "en": "From the forecourt look along the arches to show their depth. Ask before photographing chapels or paintings and wait until worship has finished.",
+      "zh": "从前庭斜向拱列拍出纵深，拍礼拜堂或绘画前先征得同意，并等宗教仪式结束。"
+    },
+    "hours": {
+      "es": "La portada se observa desde la calle. Para entrar, comprueba el aviso de culto en la puerta; una misa, exposición del Santísimo u oficio de la comunidad puede cambiar el acceso turístico.",
+      "en": "View the entrance from the street. Check the worship notice before entering; Mass, adoration or a community service can change visitor access.",
+      "zh": "建筑入口从街面即可观察。想入内先看门口礼拜公告；弥撒、朝拜或团体宗教仪式会影响游客通行。"
+    },
+    "price": {
+      "es": "La parada exterior es libre. En el templo sigue las indicaciones sobre acceso, visita organizada y donativo voluntario. Los espacios de clausura se rigen por las normas de la comunidad.",
+      "en": "The exterior stop is free. Inside, follow the religious community’s arrangements for admission, organised visits and voluntary offerings; enclosed religious areas have their own rules.",
+      "zh": "外部参观免费。入堂、组织导览与自愿捐赠遵守宗教团体的安排，修院内院有独立的通行规定。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/iglesia-san-gines",
+    "stages": {
+      "es": [
+        "Arenal 13 desde Sol",
+        "Atrio y pórtico de arcos",
+        "Naves laterales si el culto permite entrar"
+      ],
+      "en": [
+        "Arenal 13 from Sol",
+        "Forecourt and arched porch",
+        "Side aisles if worship permits entry"
+      ],
+      "zh": [
+        "从太阳门到阿雷纳尔街13号",
+        "前庭与拱廊",
+        "礼拜安排允许时参观侧廊"
+      ]
+    }
+  },
+  "descalzas-reales": {
+    "scene": {
+      "es": "Desde la plaza, el muro del convento apenas deja entrever el antiguo palacio. Durante la visita guiada, sigue cómo la escalera organiza la llegada y cómo cambia la escala al pasar a las capillas: en pocos pasos se suceden residencia cortesana y clausura.",
+      "en": "From the square little of the former palace is visible. On a guided visit, follow the staircase as it organises the arrival, then notice the change of scale in the chapels. Court life and enclosure meet within a few steps.",
+      "zh": "从广场看，修院外墙几乎不透露旧宫邸的模样。跟随导览，先看楼梯如何引导来客，再体会进入小堂以后的尺度变化，几步之内就能看见宫廷与修道生活的交接。"
+    },
+    "photography": {
+      "es": "En la plaza deja espacio alrededor de la fachada para mostrar su volumen cerrado. Dentro, pregunta al guía por las dependencias donde se permiten fotos antes de sacar la cámara.",
+      "en": "In the square leave space around the frontage to show its enclosed form. Inside, ask the guide which rooms may be photographed before using a camera.",
+      "zh": "从广场拍外立面时给两端留出空间，呈现封闭形体。入内先向导游问清可拍区域，再取出相机。"
+    },
+    "hours": {
+      "es": "Solo se visita con guía. La franja general es martes–sábado 10:00–14:00 y 16:00–18:30, domingos y festivos 10:00–15:00. Los lunes cierra. Reserva la hora concreta y revisa los cierres excepcionales.",
+      "en": "Visits are guided only. General hours are Tuesday–Saturday 10:00–14:00 and 16:00–18:30, Sundays and holidays 10:00–15:00. Closed Mondays. Book a specific tour time and check exceptional closures.",
+      "zh": "仅可随导览参观，通常周二至周六10:00–14:00、16:00–18:30，周日及节假日10:00–15:00，周一闭馆。请预订具体场次，并核对特殊闭馆日。"
+    },
+    "price": {
+      "es": "La venta oficial para visita guiada individual indica 9 € antes de los gastos de gestión. Los turnos y categorías gratuitas tienen cupo y condiciones propios.",
+      "en": "Official individual guided tickets are listed at €9 before booking fees. Free sessions or categories have separate conditions and capacity limits.",
+      "zh": "官方个人导览票标价9欧元，网上手续费另计。免费场次及优惠资格受名额和条件限制。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://tickets.patrimonionacional.es/es/tickets/monasterio-descalzas",
+    "stages": {
+      "es": [
+        "Plaza de las Descalzas",
+        "Acceso del turno guiado",
+        "Escalera palaciega y capillas con el grupo"
+      ],
+      "en": [
+        "Plaza de las Descalzas",
+        "Entrance for the booked guide slot",
+        "Palace staircase and chapels with the guide"
+      ],
+      "zh": [
+        "赤足修女广场",
+        "预约导览入口",
+        "随团参观宫邸楼梯和小堂"
+      ]
+    }
+  },
+  "plaza-del-carmen": {
+    "scene": {
+      "es": "Cruza la plaza en diagonal desde una calle comercial hacia la iglesia. Observa dónde cambia el ritmo de los escaparates y comienza la fachada religiosa. La comparación permite reconocer el antiguo barrio conventual dentro del recorrido actual de compras.",
+      "en": "Cross diagonally from a shopping street towards the church. Notice where the shopfront rhythm ends and the church frontage begins. The change locates the old convent neighbourhood within today’s shopping district.",
+      "zh": "由商业街斜穿广场走向教堂，留意连续橱窗在哪里中断、宗教立面从哪里出现。这样的对照能在今天的购物路线中辨认出昔日的修院街区。"
+    },
+    "photography": {
+      "es": "Sitúate en el borde opuesto a la iglesia para mostrar la fachada y la entrada de una calle. Evita cortar las zonas de paso entre Preciados y Tres Cruces.",
+      "en": "From the edge opposite the church include its front and the mouth of a street. Keep the passages between Preciados and Tres Cruces clear.",
+      "zh": "站在教堂对侧把立面与一条街口同框，不要阻碍普雷西亚多斯街和特雷斯克鲁塞斯街之间的通行。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "Alojarse junto a Sol permite volver a pie después de recorrer Arenal y Preciados. Hacia Ópera se añade un corto paseo por Arenal y resulta más sencillo continuar al Palacio Real por la mañana.",
+      "en": "Staying near Sol lets you walk back after exploring Arenal and Preciados. A base towards Ópera adds a walk on Arenal but makes an early continuation to the Royal Palace easier.",
+      "zh": "住在太阳门附近，逛完阿雷纳尔街、普雷西亚多斯街后可步行回住处。选择靠歌剧院一侧，则多一段阿雷纳尔街步行，但清早续访王宫更方便。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Plaza_del_Carmen_(Madrid)",
+    "stages": {
+      "es": [
+        "Acceso desde las calles comerciales",
+        "Fachada de la iglesia del Carmen",
+        "Salida por Tres Cruces hacia Gran Vía"
+      ],
+      "en": [
+        "Approach from the shopping streets",
+        "Frontage of El Carmen church",
+        "Exit along Tres Cruces to Gran Vía"
+      ],
+      "zh": [
+        "从商业街进入",
+        "卡门教堂立面",
+        "沿特雷斯克鲁塞斯街去格兰大道"
+      ]
+    }
+  },
+  "teatro-real": {
+    "scene": {
+      "es": "Rodea el teatro desde la plaza de Isabel II hasta Oriente antes de elegir una foto. Una cara recibe al público que llega en metro y la otra mira al palacio. El breve rodeo explica mejor su posición en Madrid que una sola vista frontal.",
+      "en": "Walk around the theatre from Isabel II to Oriente before choosing a photograph. One face receives the public from the Metro, the other looks towards the palace. The short circuit explains its place in Madrid better than one frontal view.",
+      "zh": "从伊莎贝尔二世广场绕到东方广场后再选取景点。一侧接住从地铁来的观众，另一侧面对王宫。短短一圈，比只看一个正面更能理解歌剧院在城市中的位置。"
+    },
+    "photography": {
+      "es": "En Isabel II incluye el acceso del teatro a escala de calle. En Oriente retrocede por el eje de la plaza para una segunda vista con el edificio completo.",
+      "en": "At Isabel II include the entrance at street level. From Oriente step back along the square’s axis for a second view of the whole building.",
+      "zh": "在伊莎贝尔二世广场拍临街入口，再从东方广场沿轴线退后，拍歌剧院全貌。"
+    },
+    "hours": {
+      "es": "El paseo exterior puede hacerse con luz de día. Para entrar al teatro, comprueba si la actividad elegida es visita guiada o función y distingue la apertura de puertas del comienzo del espectáculo.",
+      "en": "Walk around the exterior in daylight. For indoor admission, distinguish a guided visit from a performance and check doors-open time separately from curtain time.",
+      "zh": "外观建议白天参观。进入剧场须区分导览和演出，并分别核对进场与开演时间。"
+    },
+    "price": {
+      "es": "La calle y las plazas no requieren boleto. La taquilla del teatro ofrece precios por producción, localidad y modalidad de visita. Consulta el plano de sala de tu función antes de pagar.",
+      "en": "The street and squares require no ticket. Theatre prices depend on production, seat and type of visit. Check your performance’s seating plan before paying.",
+      "zh": "街面与广场免费参观。剧院按制作、座位和参观方式分别售票，付款前请核对该场座位图。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/teatro-real",
+    "stages": {
+      "es": [
+        "Plaza de Isabel II y acceso de Ópera",
+        "Costado del teatro por Felipe V",
+        "Fachada hacia Plaza de Oriente"
+      ],
+      "en": [
+        "Plaza de Isabel II and Ópera station",
+        "Side of the theatre on Felipe V",
+        "Elevation facing Plaza de Oriente"
+      ],
+      "zh": [
+        "伊莎贝尔二世广场与地铁出入口",
+        "沿腓力五世街看侧面",
+        "东方广场一侧的立面"
+      ]
+    }
+  },
+  "plaza-de-isabel-ii": {
+    "scene": {
+      "es": "Busca primero el pedestal de Isabel y después las indicaciones de Ópera. Sobre un mismo punto se cruzan una plaza de acceso al teatro y una estación que conserva restos del antiguo abastecimiento de agua. Los dos niveles exigen tiempos de visita distintos.",
+      "en": "First locate Isabella’s pedestal, then the Ópera station signs. This one spot combines a theatre forecourt with a station preserving early waterworks. Visiting the two levels calls for different timing.",
+      "zh": "先找女王雕像的基座，再认歌剧院地铁站的标识。地面是剧院前庭，地下是留有古供水设施的车站，两个层次需要分别安排时间。"
+    },
+    "photography": {
+      "es": "Desde el lado de Arenal puedes incluir pedestal y fachada del teatro. Para una segunda toma acércate a la estatua manteniendo libre la entrada del metro.",
+      "en": "From the Arenal side include the pedestal and theatre frontage. Move closer for a second statue view without standing at the Metro entrance.",
+      "zh": "从阿雷纳尔街一侧将基座和歌剧院同框，再靠近拍人物，避开地铁出入口。"
+    },
+    "hours": {
+      "es": "La plaza y la estatua se visitan desde el espacio público. Para ver Caños del Peral comprueba el calendario del museo de Metro en la estación Ópera antes de bajar.",
+      "en": "The square and statue are in public space. For Caños del Peral, check the Metro museum calendar at Ópera before going downstairs.",
+      "zh": "广场与女王雕像属于公共空间。如要下到歌剧院地铁站看旧供水遗迹，先查地铁博物馆开放日历。"
+    },
+    "price": {
+      "es": "No se necesita entrada para la plaza. Las condiciones del museo subterráneo y del transporte en Metro se consultan con el operador por separado.",
+      "en": "There is no admission fee for the square. Check underground museum arrangements and Metro fares separately with the operator.",
+      "zh": "广场免费；地下博物馆的参观条件与乘坐地铁的费用请分别向运营方查询。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Plaza_de_Isabel_II_(Madrid)",
+    "stages": {
+      "es": [
+        "Llegada por Arenal",
+        "Estatua de Isabel II junto a Ópera",
+        "Teatro Real o acceso reservado a Caños del Peral"
+      ],
+      "en": [
+        "Arrival along Arenal",
+        "Isabella II statue at Ópera",
+        "Teatro Real or booked Caños del Peral entry"
+      ],
+      "zh": [
+        "从阿雷纳尔街抵达",
+        "歌剧院站旁女王雕像",
+        "续往皇家歌剧院或已预约的地下遗迹入口"
+      ]
+    }
+  },
+  "plaza-de-oriente": {
+    "scene": {
+      "es": "Párate a un lado de Felipe IV para ver el caballo levantado sobre las patas traseras. Después regresa al eje central. La estatua que parecía aislada desde el lateral pasa a conectar visualmente el Teatro Real y el Palacio Real.",
+      "en": "Stand beside Philip IV to see the horse rearing on its hind legs, then return to the central axis. A statue that looked isolated from the side now visually connects opera house and palace.",
+      "zh": "先站在腓力四世雕像侧面，辨认马腾起前蹄的姿势，再回到广场中轴。刚才独立于视野中的雕像，此时把歌剧院和王宫在视觉上连在一起。"
+    },
+    "photography": {
+      "es": "Usa un sendero lateral para perfilar al caballo contra el cielo. Desde el centro prueba dos fotografías opuestas, una hacia el palacio y otra hacia el teatro.",
+      "en": "Use a side path to silhouette the horse against the sky. From the centre take opposite views, one towards the palace and one towards the theatre.",
+      "zh": "从侧径以天空为背景拍马的侧影，再到中央分别朝王宫和剧院拍两张相反方向的照片。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/jardines-de-la-plaza-de-oriente",
+    "stages": {
+      "es": [
+        "Extremo del Teatro Real",
+        "Estatua ecuestre de Felipe IV",
+        "Sendero lateral hacia Palacio o Encarnación"
+      ],
+      "en": [
+        "Teatro Real end",
+        "Equestrian statue of Philip IV",
+        "Side path towards the Palace or Encarnación"
+      ],
+      "zh": [
+        "歌剧院一端",
+        "腓力四世骑马像",
+        "沿侧径前往王宫或降生修道院"
+      ]
+    }
+  },
+  "palacio-real": {
+    "scene": {
+      "es": "Antes de ir a la entrada, mira desde Oriente cómo los pisos se repiten a ambos lados del cuerpo central. En una visita interior, compara ese orden exterior con la sucesión de antecámaras y salones: la ceremonia real también determinaba quién avanzaba hasta dónde.",
+      "en": "Before approaching the entrance, look from Oriente at the storeys repeating on both sides of the centre. Inside, compare that exterior order with the succession of chambers: court ceremony also determined how far a visitor could proceed.",
+      "zh": "去入口前先从东方广场看，中轴两侧的楼层如何重复。入内再把外部秩序与前室、礼仪厅的先后对照，宫廷礼制也规定来客能走到哪一间。"
+    },
+    "photography": {
+      "es": "Desde Oriente sitúa el cuerpo central del palacio en el eje del jardín. Desde Bailén busca un ángulo que incluya la relación con la Almudena sin situarte en un acceso controlado.",
+      "en": "From Oriente centre the palace on the garden axis. From Bailén frame the relationship to the Almudena without standing at a controlled entrance.",
+      "zh": "从东方广场将宫殿中部对准花园轴线，再到拜伦街拍与阿尔穆德纳座堂的空间关系，不要站在管制入口。"
+    },
+    "hours": {
+      "es": "De octubre a marzo, de lunes a sábado 10:00–18:00 y domingos 10:00–16:00. Las ceremonias oficiales pueden alterar el recorrido o el cierre; revisa el calendario del palacio.",
+      "en": "From October to March, Monday–Saturday 10:00–18:00 and Sunday 10:00–16:00. State ceremonies can change the route or cause closures; check the palace calendar.",
+      "zh": "10月至3月通常周一至周六10:00–18:00、周日10:00–16:00。国事礼仪可能导致闭馆或改变路线，前往前核对王宫日历。"
+    },
+    "price": {
+      "es": "Patrimonio Nacional indica 18 € para la visita libre individual y 9 € reducida con acreditación. El pase combinado de palacio y galería tiene su propia tarifa.",
+      "en": "Patrimonio Nacional lists €18 for individual self-guided admission and €9 at the reduced rate with proof. The combined palace and gallery pass is separately priced.",
+      "zh": "国家遗产管理局公布个人自助参观普通票18欧元、持证优惠票9欧元。王宫与皇家收藏馆联票另行计价。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://tickets.patrimonionacional.es/es/tickets/palacio-real-de-madrid",
+    "stages": {
+      "es": [
+        "Jardines de Plaza de Oriente",
+        "Calle de Bailén frente a la fachada",
+        "Acceso que indique la entrada, o plaza de la Almudena"
+      ],
+      "en": [
+        "Gardens in Plaza de Oriente",
+        "Calle de Bailén opposite the palace",
+        "Entrance on your ticket, or the Almudena square"
+      ],
+      "zh": [
+        "东方广场花园",
+        "拜伦街正对王宫处",
+        "按票面寻找入口，或去座堂前广场"
+      ]
+    }
+  },
+  "jardines-de-sabatini": {
+    "scene": {
+      "es": "Desde la cota de Bailén mira el estanque antes de bajar. Una vez junto al agua, vuelve la vista hacia la fachada norte del palacio. Los setos que parecían un dibujo desde arriba se convierten en paredes bajas que guían el paseo.",
+      "en": "Look at the pool from Bailén before descending, then turn towards the palace’s north front from the water. Hedges that looked like a pattern from above become low walls guiding the walk.",
+      "zh": "下行之前先从拜伦街高度看水池，到了池边再回头望王宫北面。俯看像平面图案的树篱，走入园中就变成引导动线的矮墙。"
+    },
+    "photography": {
+      "es": "Desde el borde del estanque alinea el agua con la fachada norte. El nivel superior de Bailén da otra vista de la geometría sin pisar el césped.",
+      "en": "From the pool edge align water and palace frontage. Bailén’s upper level gives another view of the geometry without stepping onto the lawn.",
+      "zh": "从池沿让水面与王宫北立面对齐，拜伦街上方还能俯拍几何格局，无需走进草坪。"
+    },
+    "hours": {
+      "es": "Consulta las puertas abiertas y la hora de cierre en Bailén antes de bajar al estanque. El acceso de un jardín con niveles y puertas difiere del paseo continuo por la acera superior.",
+      "en": "Check the open gates and closing notice on Bailén before going down to the pool. The terraced, gated garden has different access from the continuous upper pavement.",
+      "zh": "下到水池前，在拜伦街核对开放园门与当日闭园时间。分层且设门的花园与上方街面步道的通行安排不同。"
+    },
+    "price": {
+      "es": "Turismo Madrid indica acceso libre. La entrada del jardín no incluye las salas del Palacio Real ni el uso de una terraza comercial vecina.",
+      "en": "Madrid Tourism lists free access. Garden entry does not cover the Royal Palace rooms or a neighbouring commercial rooftop terrace.",
+      "zh": "马德里旅游局公布花园免费开放，王宫展厅与附近商业屋顶露台各有独立安排。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/jardines-de-sabatini",
+    "stages": {
+      "es": [
+        "Cota alta de Bailén",
+        "Estanque y setos del nivel bajo",
+        "Vista de la fachada norte del palacio"
+      ],
+      "en": [
+        "Upper level on Bailén",
+        "Pool and hedges on the lower level",
+        "View of the palace’s north front"
+      ],
+      "zh": [
+        "拜伦街上方",
+        "低处水池与树篱",
+        "从园内看王宫北面"
+      ]
+    }
+  },
+  "catedral-de-la-almudena": {
+    "scene": {
+      "es": "Compara la llegada monumental desde la plaza que comparte con el palacio con la aproximación en pendiente junto a la cripta. Las dos entradas hacen visible el desnivel del terreno y ayudan a distinguir los recorridos del templo, del museo y de la cripta.",
+      "en": "Compare the monumental approach from the palace square with the sloping approach by the crypt. The entrances reveal the change in ground level and help distinguish cathedral, museum and crypt routes.",
+      "zh": "将王宫前广场的高处入口与地下圣堂旁的坡道入口比较。两者使地形高差清晰可见，也帮助区分座堂、博物馆和地下圣堂三条路线。"
+    },
+    "photography": {
+      "es": "Desde la plaza toma la fachada y la cúpula. Hacia Cuesta de la Vega usa el pavimento público para otra imagen de los arcos de la cripta.",
+      "en": "From the square frame the front and dome. Towards Cuesta de la Vega use the public pavement for a second image of the crypt arches.",
+      "zh": "在广场拍座堂正面与穹顶；沿拉韦加坡道再从公共人行道拍地下圣堂拱廊。"
+    },
+    "hours": {
+      "es": "Confirma por separado los horarios del templo, del museo con cúpula y de la cripta. Si hay una celebración, empieza por la plaza compartida con el palacio y vuelve después a la puerta que corresponda.",
+      "en": "Check cathedral, museum with dome and crypt hours separately. During worship, start in the square beside the palace and return later to the appropriate door.",
+      "zh": "座堂、附设博物馆与穹顶、地下圣堂分别开放。若正举行仪式，可先游王宫前广场，再返回对应入口。"
+    },
+    "price": {
+      "es": "El acceso para el culto y la visita cultural al museo se organizan por separado. Consulta con el cabildo el donativo del templo y el precio de la visita a museo y cúpula; pregunta aparte por la cripta.",
+      "en": "Worship and museum visits have separate arrangements. Check the chapter’s church donation and museum-and-dome ticket, and enquire separately about the crypt.",
+      "zh": "宗教礼拜与博物馆文化参观分别安排。请向座堂查询自愿捐赠、博物馆及穹顶票价，地下圣堂另询。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/catedral-de-la-almudena",
+    "stages": {
+      "es": [
+        "Plaza junto al Palacio Real",
+        "Acceso a la catedral desde Bailén",
+        "Cuesta de la Vega hacia la cripta"
+      ],
+      "en": [
+        "Square beside the Royal Palace",
+        "Cathedral approach from Bailén",
+        "Cuesta de la Vega towards the crypt"
+      ],
+      "zh": [
+        "王宫旁广场",
+        "拜伦街一侧座堂入口",
+        "沿拉韦加坡道去地下圣堂"
+      ]
+    }
+  },
+  "galeria-colecciones-reales": {
+    "scene": {
+      "es": "Localiza el acceso superior junto a la Almudena antes de buscar las salas. El edificio aprovecha el talud: la visita baja con las colecciones. Anota por dónde quieres salir si el siguiente tramo te lleva a la plaza de la Armería o hacia el Campo del Moro.",
+      "en": "Find the upper entrance beside the Almudena first. The building uses the escarpment and the visit descends through the collections. Decide which exit fits your next stop, towards the armoury square or Campo del Moro.",
+      "zh": "先找阿尔穆德纳座堂旁的高处入口。展馆借山坡展开，参观随着收藏向下推进。下一站若是王宫广场或摩尔人花园，应提前分辨不同高度的出口。"
+    },
+    "photography": {
+      "es": "Desde el acceso superior contrasta la piedra contemporánea con la catedral vecina. Para enseñar la altura del edificio, busca una vista desde el lado bajo durante el recorrido permitido.",
+      "en": "From the upper approach contrast contemporary stone with the cathedral. To show the building’s height, find a view from the lower side along an authorised route.",
+      "zh": "从高处入口拍当代石材与相邻座堂的对比，再沿开放路线到低处拍建筑的高度。"
+    },
+    "hours": {
+      "es": "La galería publica apertura de lunes a sábado de 10:00 a 20:00. Domingos, festivos y vísperas especiales pueden tener horario reducido; comprueba la fecha antes de bajar por las salas.",
+      "en": "The gallery lists Monday–Saturday 10:00–20:00. Sundays, holidays and special dates can have shorter hours; check your date before setting out through the descending galleries.",
+      "zh": "馆方公布周一至周六10:00–20:00开放，周日、节假日及特殊日期可能缩短开放时段。计划沿展厅向下参观前先查日期。"
+    },
+    "price": {
+      "es": "La tarifa básica de la galería es de 14 €. Para añadir el Palacio Real compara el pase combinado del operador con la entrada a un solo edificio.",
+      "en": "The gallery’s basic ticket is €14. To include the Royal Palace, compare the operator’s combined pass with single-building admission.",
+      "zh": "皇家收藏馆普通票14欧元。如也参观王宫，请对比管理方的联票与单馆票。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://www.galeriadelascoleccionesreales.es/horarios-y-tarifas",
+    "stages": {
+      "es": [
+        "Acceso superior junto a la Almudena",
+        "Recorrido descendente por la colección",
+        "Salida indicada hacia la cota elegida"
+      ],
+      "en": [
+        "Upper entrance by the Almudena",
+        "Descending route through the collections",
+        "Signed exit for the chosen level"
+      ],
+      "zh": [
+        "座堂旁高处入口",
+        "沿展览路线向下参观",
+        "按下站行程选择出口高度"
+      ]
+    }
+  },
+  "monasterio-de-la-encarnacion": {
+    "scene": {
+      "es": "En la plaza, mira cuánto espacio ocupa la portada respecto al resto del muro. Su sobriedad exterior prepara un contraste con la riqueza de los relicarios que se presentan durante la visita guiada. Separa el tiempo para la plaza del reservado con el guía.",
+      "en": "From the square compare the entrance’s size with the surrounding wall. Its restrained exterior contrasts with the reliquaries seen on the guided visit. Keep time for the square separate from your booked tour.",
+      "zh": "在广场上比较大门和整面墙的比例。外部克制的装饰，与导览中见到的丰富圣物匣形成对照。逛广场的时间应与预约导览时间分开。"
+    },
+    "photography": {
+      "es": "Desde la plaza encuadra la fachada entera y luego la portada a menor distancia. En el interior sigue las indicaciones sobre fotografía de cada dependencia.",
+      "en": "From the square frame the full front, then the entrance at closer range. Inside follow the photographic restrictions of each room.",
+      "zh": "在广场拍正面全貌，再靠近拍门廊；馆内须按各房间的规定决定能否摄影。"
+    },
+    "hours": {
+      "es": "Solo se visita con guía. La franja general es martes–sábado 10:00–14:00 y 16:00–18:30, domingos y festivos 10:00–15:00. Los lunes cierra. Reserva la hora concreta y revisa los cierres excepcionales.",
+      "en": "Visits are guided only. General hours are Tuesday–Saturday 10:00–14:00 and 16:00–18:30, Sundays and holidays 10:00–15:00. Closed Mondays. Book a specific tour time and check exceptional closures.",
+      "zh": "仅可随导览参观，通常周二至周六10:00–14:00、16:00–18:30，周日及节假日10:00–15:00，周一闭馆。请预订具体场次，并核对特殊闭馆日。"
+    },
+    "price": {
+      "es": "La venta oficial para visita guiada individual indica 9 € antes de los gastos de gestión. Los turnos y categorías gratuitas tienen cupo y condiciones propios.",
+      "en": "Official individual guided tickets are listed at €9 before booking fees. Free sessions or categories have separate conditions and capacity limits.",
+      "zh": "官方个人导览票标价9欧元，网上手续费另计。免费场次及优惠资格受名额和条件限制。"
+    },
+    "stay": {
+      "es": "Una base cerca de Ópera permite empezar junto al Teatro Real y llegar pronto a las reservas del barrio de Palacio. Desde Sol se suma el recorrido por Arenal; desde Plaza de España conviene revisar las pendientes antes de elegir el acceso a Bailén.",
+      "en": "Near Ópera you can start beside the theatre and arrive early for a Palace district booking. Sol adds the Arenal walk, while a base near Plaza de España calls for checking the gradient up to Bailén.",
+      "zh": "住歌剧院站附近，方便清早步行赴王宫区预约场次。住太阳门则要加上阿雷纳尔街这段路；住西班牙广场一带，预订前应考虑走到拜伦街的高差。"
+    },
+    "source": "https://tickets.patrimonionacional.es/es/tickets/monasterio-encarnacion",
+    "stages": {
+      "es": [
+        "Norte de Plaza de Oriente",
+        "Portada en Plaza de la Encarnación",
+        "Turno guiado para iglesia y relicarios"
+      ],
+      "en": [
+        "North end of Plaza de Oriente",
+        "Doorway on Plaza de la Encarnación",
+        "Guided visit for the church and reliquaries"
+      ],
+      "zh": [
+        "东方广场北侧",
+        "降生广场正门",
+        "随预约导览参观教堂与圣物匣"
+      ]
+    }
+  },
+  "plaza-de-santa-ana": {
+    "scene": {
+      "es": "Busca a García Lorca y a Calderón antes de sentarte en una terraza. Al caminar de uno a otro se reconoce la plaza como espacio de espectadores, con el Teatro Español marcando uno de sus bordes y el ir y venir del barrio delante.",
+      "en": "Find García Lorca and Calderón before taking a terrace seat. The walk between them reveals the square as a place for spectators, with Teatro Español on one edge and the neighbourhood moving across its foreground.",
+      "zh": "坐下喝咖啡前先找洛尔卡与卡尔德隆两座雕像。由一处走到另一处，像穿过一座开放的观众席：西班牙剧院界定了一边，文学区的日常往来则在眼前经过。"
+    },
+    "photography": {
+      "es": "Acércate a una de las esculturas para incluir su gesto y un tramo de plaza. Desde enfrente del Teatro Español deja espacio para leer el nombre sobre la fachada.",
+      "en": "Move close to a sculpture to include its gesture and part of the square. Opposite Teatro Español, leave room to read the name on its frontage.",
+      "zh": "走近一座雕塑，将人物手势与广场一角同框；到西班牙剧院对面再留出构图空间，将立面上的剧院名收入画面。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Plaza_de_Santa_Ana_(Madrid)",
+    "stages": {
+      "es": [
+        "Entrada desde la zona de Sol",
+        "Esculturas de Lorca y Calderón",
+        "Fachada del Teatro Español"
+      ],
+      "en": [
+        "Approach from Sol",
+        "Lorca and Calderón sculptures",
+        "Teatro Español frontage"
+      ],
+      "zh": [
+        "从太阳门方向进入",
+        "洛尔卡与卡尔德隆雕像",
+        "西班牙剧院立面"
+      ]
+    }
+  },
+  "teatro-espanol": {
+    "scene": {
+      "es": "Desde Santa Ana imagina la diferencia entre el antiguo corral abierto y la sala cerrada de hoy. Después lee la cartelera: aquí la continuidad de la actividad teatral dice más sobre la historia del lugar que la fecha de cualquier fachada concreta.",
+      "en": "From Santa Ana picture the difference between an open-air playhouse and today’s enclosed auditorium. Then read the programme: the continuity of performance tells more about this site than the age of any one façade.",
+      "zh": "从圣安娜广场想象旧露天剧场与今日室内观众厅的区别，再看看剧目公告。这个地方最能说明历史的，是演出活动本身延续至今，而不仅是哪一年建成的立面。"
+    },
+    "photography": {
+      "es": "Sitúate en la plaza para que entre el frente completo. Acércate después a los anuncios de la producción; dentro pregunta por fotos antes de que comience la función.",
+      "en": "Frame the entire front from the square. Move closer for the production notices; ask about photography inside before the performance starts.",
+      "zh": "从广场拍完整正面，再走近拍当期演出公告。入内摄影须在开演前向场务确认。"
+    },
+    "hours": {
+      "es": "El paseo exterior puede hacerse con luz de día. Para entrar al teatro, comprueba si la actividad elegida es visita guiada o función y distingue la apertura de puertas del comienzo del espectáculo.",
+      "en": "Walk around the exterior in daylight. For indoor admission, distinguish a guided visit from a performance and check doors-open time separately from curtain time.",
+      "zh": "外观建议白天参观。进入剧场须区分导览和演出，并分别核对进场与开演时间。"
+    },
+    "price": {
+      "es": "La calle y las plazas no requieren boleto. La taquilla del teatro ofrece precios por producción, localidad y modalidad de visita. Consulta el plano de sala de tu función antes de pagar.",
+      "en": "The street and squares require no ticket. Theatre prices depend on production, seat and type of visit. Check your performance’s seating plan before paying.",
+      "zh": "街面与广场免费参观。剧院按制作、座位和参观方式分别售票，付款前请核对该场座位图。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/teatro-espanol",
+    "stages": {
+      "es": [
+        "Plaza de Santa Ana",
+        "Fachada y cartelera del Teatro Español",
+        "Entrada de la función o continuación por el barrio"
+      ],
+      "en": [
+        "Plaza de Santa Ana",
+        "Theatre front and current programme",
+        "Entrance for your show or onward Literary Quarter walk"
+      ],
+      "zh": [
+        "圣安娜广场",
+        "剧院正面与剧目公告",
+        "按票面入场或继续游逛文学区"
+      ]
+    }
+  },
+  "ateneo-de-madrid": {
+    "scene": {
+      "es": "En la estrecha calle del Prado el acceso del Ateneo ocupa menos campo visual que un gran museo. Busca el nombre de la institución y comprueba qué actividad se anuncia. Una conferencia, la biblioteca y una visita patrimonial pueden llevar a espacios distintos.",
+      "en": "On narrow Calle del Prado the entrance takes up less of your view than a grand museum would. Find the institution’s name and read the event notice. A lecture, library visit and heritage tour can lead to different parts of the building.",
+      "zh": "普拉多街狭窄，学会入口不像大型博物馆那样占据视线。先读门上的机构名，再看当天活动。讲座、图书馆使用与遗产导览可能通往不同空间。"
+    },
+    "photography": {
+      "es": "Desde la acera contraria busca el encuadre de la portada. Si tienes acceso a la galería de retratos, confirma primero si se permite fotografiarla durante la actividad.",
+      "en": "Use the opposite pavement for the entrance. If visiting the portrait gallery, check whether photography is permitted during your event.",
+      "zh": "从对街拍入口。若活动路线经过肖像画廊，先问清该场活动期间能否拍摄。"
+    },
+    "hours": {
+      "es": "Biblioteca, visitas guiadas y agenda cultural tienen horarios distintos. Antes de entrar por el número 21 de la calle del Prado confirma la sala y la hora de la actividad.",
+      "en": "Library, guided tours and cultural events have different timetables. Before entering at Calle del Prado 21, confirm the room and start time for the activity.",
+      "zh": "图书馆、导览和文化活动分别安排时间。到普拉多街21号入内前先核对活动厅名及开始时间。"
+    },
+    "price": {
+      "es": "La portada se aprecia desde la calle. Para el interior, consulta en el Ateneo si la actividad es de acceso público, requiere inscripción o tiene entrada de pago.",
+      "en": "The entrance is visible from the street. Ask the Ateneo whether the indoor event is open, requires registration or has a paid ticket.",
+      "zh": "可在街面观看门廊。室内活动可能对公众开放、要求报名或收费，请以学会该场公告为准。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://ateneodemadrid.com/",
+    "stages": {
+      "es": [
+        "Calle del Prado desde Santa Ana",
+        "Portada del número 21",
+        "Sala asignada al acto o vuelta por León"
+      ],
+      "en": [
+        "Calle del Prado from Santa Ana",
+        "Doorway at number 21",
+        "Room for the booked event or return via León"
+      ],
+      "zh": [
+        "从圣安娜广场到普拉多街",
+        "21号门廊",
+        "按预约找活动厅或从莱昂街返回"
+      ]
+    }
+  },
+  "casa-museo-lope-de-vega": {
+    "scene": {
+      "es": "Antes de tu turno recorre la calle de Cervantes hasta el número 11. Dentro, fíjate en cómo el pequeño jardín cambia la luz de los cuartos. El tamaño doméstico del recorrido acerca la escritura de Lope a una vivienda concreta del Siglo de Oro.",
+      "en": "Before your slot, walk Calle de Cervantes to number 11. Inside, notice how the small garden changes the light in the rooms. The domestic scale places Lope’s writing in a particular Golden Age Madrid home.",
+      "zh": "预约时间前沿塞万提斯街走到11号。入内留意小花园如何改变房间的采光。空间的住宅尺度，把洛佩的写作放回黄金时代马德里一座具体的家中。"
+    },
+    "photography": {
+      "es": "Desde la acera de Cervantes encuadra puerta y número. Para el jardín, pide al guía un punto permitido que muestre el diálogo entre ventanas y vegetación.",
+      "en": "From Calle de Cervantes frame the door and number. In the garden, ask the guide for a permitted position that brings windows and greenery together.",
+      "zh": "在塞万提斯街拍门和门牌号。花园内先请导游指出可拍位置，再将窗户与绿植一同取景。"
+    },
+    "hours": {
+      "es": "La Comunidad de Madrid programa visitas guiadas a la vivienda. Escoge un turno con antelación: el tiempo de una visita por las habitaciones no equivale al horario general de recepción.",
+      "en": "The Madrid regional government schedules guided house visits. Choose a slot in advance; access to the furnished rooms follows that tour rather than general reception hours.",
+      "zh": "马德里自治区安排住宅内部导览，应提前选择场次。即使接待处开放，带有陈设的房间仍按导览时间入内。"
+    },
+    "price": {
+      "es": "La Comunidad de Madrid ofrece visitas guiadas gratuitas. Reserva con antelación para contar con plaza en el grupo; conserva la confirmación del turno.",
+      "en": "Regional government guided visits are free. Reserve ahead for a group place and retain the booking confirmation.",
+      "zh": "自治区政府提供免费导览。建议预先预约团内名额，并保存场次确认函。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.comunidad.madrid/actividades/2026/descubre-casa-museo-lope-vega",
+    "stages": {
+      "es": [
+        "Calle de Cervantes 11",
+        "Habitaciones de la casa con el guía",
+        "Jardín y salida hacia la calle de León"
+      ],
+      "en": [
+        "Calle de Cervantes 11",
+        "Furnished rooms with the guide",
+        "Garden and exit towards Calle de León"
+      ],
+      "zh": [
+        "塞万提斯街11号",
+        "随导览参观住宅房间",
+        "花园与通往莱昂街的出口"
+      ]
+    }
+  },
+  "trinitarias-descalzas": {
+    "scene": {
+      "es": "En Lope de Vega compara el ladrillo con la portada de piedra. Es una calle estrecha, así que el mejor recorrido suele ser una pausa frente a la puerta y otra unos pasos más adelante. Recuerda que el enterramiento de Cervantes precede a la iglesia actual.",
+      "en": "On Calle de Lope de Vega compare brickwork and stone doorway. In this narrow street two short stops work well, one opposite the entrance and another a few steps along. Cervantes’s burial predates the present church.",
+      "zh": "在洛佩·德·维加街把砖墙与石门作对照。街窄，适合在门对面看一眼，再往前几步停一次。塞万提斯下葬的时间早于眼前这座教堂。"
+    },
+    "photography": {
+      "es": "Desde el lado opuesto usa un encuadre vertical para incluir portada y muro. Evita los portales de viviendas al retroceder y pide permiso para cualquier toma interior.",
+      "en": "From opposite use a vertical frame for portal and wall. Keep residential doorways clear when stepping back and seek permission for interior shots.",
+      "zh": "从对面用竖构图拍门廊与高墙，退后时避开居民门口，室内拍摄先征得许可。"
+    },
+    "hours": {
+      "es": "La portada se observa desde la calle. Para entrar, comprueba el aviso de culto en la puerta; una misa, exposición del Santísimo u oficio de la comunidad puede cambiar el acceso turístico.",
+      "en": "View the entrance from the street. Check the worship notice before entering; Mass, adoration or a community service can change visitor access.",
+      "zh": "建筑入口从街面即可观察。想入内先看门口礼拜公告；弥撒、朝拜或团体宗教仪式会影响游客通行。"
+    },
+    "price": {
+      "es": "La parada exterior es libre. En el templo sigue las indicaciones sobre acceso, visita organizada y donativo voluntario. Los espacios de clausura se rigen por las normas de la comunidad.",
+      "en": "The exterior stop is free. Inside, follow the religious community’s arrangements for admission, organised visits and voluntary offerings; enclosed religious areas have their own rules.",
+      "zh": "外部参观免费。入堂、组织导览与自愿捐赠遵守宗教团体的安排，修院内院有独立的通行规定。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/iglesia-y-convento-de-las-trinitarias-descalzas",
+    "stages": {
+      "es": [
+        "Calle de Lope de Vega",
+        "Portal de piedra del número 18",
+        "Regreso por León hacia la casa de Lope"
+      ],
+      "en": [
+        "Calle de Lope de Vega",
+        "Stone portal at number 18",
+        "Return via León towards Lope’s house"
+      ],
+      "zh": [
+        "洛佩·德·维加街",
+        "18号石刻门廊",
+        "沿莱昂街接洛佩故居"
+      ]
+    }
+  },
+  "congreso-de-los-diputados": {
+    "scene": {
+      "es": "Desde la acera opuesta distingue primero el triángulo del frontón y luego los dos leones en la escalinata. La fachada se concibió para una lectura frontal y ceremonial. Acercarte al control de entrada solo tiene sentido si cuentas con una visita autorizada.",
+      "en": "From across the street find the triangular pediment, then the two lions on the steps. The façade was designed for a frontal, ceremonial view. Approach the entry control only if you have arranged an authorised visit.",
+      "zh": "先从对街找三角山花，再看台阶两侧的狮子。议会正面提供的是礼仪性轴线视角；只有已安排正式参观时才需走向入口安检。"
+    },
+    "photography": {
+      "es": "Desde la acera de las Cortes separa el perfil de un león de las columnas. Retrocede por la misma acera para encuadrar ambos y deja libres los pasos oficiales.",
+      "en": "From the public pavement separate a lion’s profile from the columns. Step back on the same pavement to include both lions, keeping official approaches clear.",
+      "zh": "从公共人行道将一只狮子的轮廓与柱廊分开，再沿同一侧退后，拍两狮与入口，给公务通道让行。"
+    },
+    "hours": {
+      "es": "El paseo por Carrera de San Jerónimo es exterior. Para entrar se debe elegir una visita autorizada o una jornada abierta y seguir las instrucciones del Congreso sobre hora y documentos.",
+      "en": "The Carrera de San Jerónimo walk is outdoors. To enter, choose an authorised visit or open day and follow Congress instructions on arrival time and documentation.",
+      "zh": "圣赫罗尼莫大街上的步行参观属于外观路线。入内需选择获准导览或公众开放日，遵循议会公布的到达时间与证件要求。"
+    },
+    "price": {
+      "es": "La vista del pórtico y los leones desde la acera opuesta no tiene coste. Para las dependencias parlamentarias, confirma plaza y condiciones mediante el canal de visitas del Congreso.",
+      "en": "The portico and lions are free to view from across the street. For parliamentary rooms, confirm your place and conditions through the Congress visitor service.",
+      "zh": "从对街看柱廊与铜狮免费。参观议会内部需向议会访客服务核实名额与条件。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.congreso.es/",
+    "stages": {
+      "es": [
+        "Carrera de San Jerónimo desde Sol",
+        "Pórtico y leones desde la acera opuesta",
+        "Plaza de las Cortes hacia Neptuno"
+      ],
+      "en": [
+        "Carrera de San Jerónimo from Sol",
+        "Portico and lions from the opposite pavement",
+        "Plaza de las Cortes towards Neptune"
+      ],
+      "zh": [
+        "从太阳门沿圣赫罗尼莫大街前行",
+        "从对街看柱廊与铜狮",
+        "从议会广场续往海神喷泉"
+      ]
+    }
+  },
+  "fuente-de-neptuno": {
+    "scene": {
+      "es": "Localiza primero el tridente desde la acera del Prado. Cambia de posición hasta que el carro se distinga del tráfico que lo rodea. La rotonda impone distancia, pero esa misma distancia permite leer el conjunto como pieza del paseo monumental.",
+      "en": "Find the trident first from the Prado pavement. Change position until the chariot is distinct from passing traffic. The roundabout imposes distance, but that distance lets you read the whole fountain as part of the monumental promenade.",
+      "zh": "先从普拉多大道人行道找三叉戟，移动几步直到海神战车与车流分开。环岛迫使观众保持距离，也因此能把喷泉作为纪念性大道的一部分观看。"
+    },
+    "photography": {
+      "es": "Desde el lado del Thyssen busca un fondo claro para el tridente. Para una segunda toma cambia de acera solo por los pasos señalizados y conserva el carro entero en el encuadre.",
+      "en": "From the Thyssen side seek a clear background for the trident. For a second view cross only at marked crossings and include the whole chariot.",
+      "zh": "从提森博物馆一侧找三叉戟的干净背景。想换角度请走标识过街点，再把整辆战车收入画面。"
+    },
+    "hours": {
+      "es": "Contempla la fuente desde las aceras del paseo. Los desfiles, celebraciones deportivas y cortes de circulación pueden desviar los pasos peatonales. El funcionamiento del agua no es un horario de visita.",
+      "en": "View the fountain from the promenade pavements. Parades, sporting celebrations and traffic restrictions can divert crossings. Fountain operating times are separate from viewing access.",
+      "zh": "沿大道人行道观赏即可。游行、体育庆祝和交通管制可能调整过街路径，喷水时间与能否从街面观看是两回事。"
+    },
+    "price": {
+      "es": "La fuente se ve sin entrada desde el perímetro. Lleva la cámara hacia otra esquina por los pasos habilitados, sin acceder a la isleta del monumento.",
+      "en": "There is no admission charge for viewing from the perimeter. Move to other corners at authorised crossings rather than entering the monument island.",
+      "zh": "从环岛外围参观不收费。换机位请走允许的过街点，不要进入纪念物所在的中央岛。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/fuente-de-neptuno",
+    "stages": {
+      "es": [
+        "Plaza de Cánovas del Castillo por el Prado",
+        "Vista de Neptuno y su tridente desde la acera",
+        "Lado del Thyssen o paseo al norte hacia Cibeles"
+      ],
+      "en": [
+        "Plaza de Cánovas del Castillo via the Prado",
+        "Pavement view of Neptune and trident",
+        "Thyssen side or walk north to Cibeles"
+      ],
+      "zh": [
+        "从普拉多大道到卡诺瓦斯广场",
+        "从人行道看海神与三叉戟",
+        "到提森馆一侧或北行去西贝莱斯"
+      ]
+    }
+  },
+  "museo-thyssen-bornemisza": {
+    "scene": {
+      "es": "Entra al patio del Palacio de Villahermosa y decide qué época quieres ver antes de subir. Las salas permiten seguir cambios de estilo de un siglo a otro, pero dos obras cercanas se comparan mejor sin intentar abarcar todo el museo en una hora.",
+      "en": "Enter the Villahermosa Palace courtyard and choose a period before going upstairs. The galleries trace changing styles across centuries, but comparing two neighbouring works is more rewarding than trying to cover everything in an hour.",
+      "zh": "走进比利亚埃尔莫萨宫庭院后，先选想看的时期再上楼。展厅串起几个世纪的画风变化，只有一小时时，细看相邻的两幅画比匆忙走完全馆更值得。"
+    },
+    "photography": {
+      "es": "Desde el patio incluye la entrada y el espacio ajardinado. Antes de fotografiar obras, comprueba la señalización de esa sala, especialmente en una exposición temporal.",
+      "en": "From the courtyard frame the entrance and planted space. Check the gallery’s guidance before photographing works, especially in a temporary exhibition.",
+      "zh": "在庭院同框拍入口和绿地，拍作品前查看对应展厅标识，尤其是临展区域。"
+    },
+    "hours": {
+      "es": "De septiembre a junio la colección abre lunes 12:00–16:00 y martes–domingo desde las 10:00. La mayoría de las salas cierran a las 19:00; los sábados hay horario especial para temporales y zonas concretas.",
+      "en": "From September to June the collection opens Monday 12:00–16:00 and Tuesday–Sunday from 10:00. Most galleries close at 19:00; Saturday evening hours apply to specific temporary displays and areas.",
+      "zh": "9月至翌年6月，馆藏周一12:00–16:00开放，周二至周日10:00开馆。多数展厅19:00关闭；周六晚间仅特定临展与区域延时。"
+    },
+    "price": {
+      "es": "La tarifa general publicada es 14 € y la reducida 10 € para las categorías indicadas. Los lunes de 12:00 a 16:00 la colección tiene acceso gratuito directo.",
+      "en": "Published general admission is €14 and the reduced rate is €10 for eligible visitors. The collection is free on Mondays from 12:00 to 16:00 with direct entry.",
+      "zh": "普通票14欧元，指定群体优惠票10欧元。馆藏每周一12:00–16:00免费直接入场。"
+    },
+    "stay": {
+      "es": "El barrio de las Letras facilita volver a pie desde Santa Ana y las calles de Cervantes y Lope de Vega. Para empezar el día en los museos del Prado, elige el extremo oriental del barrio y calcula la subida de vuelta hacia Sol.",
+      "en": "The Literary Quarter puts Santa Ana and the streets of Cervantes and Lope de Vega within a return walk. For early visits on the Prado, stay towards the eastern edge and allow for the uphill walk back towards Sol.",
+      "zh": "住文学区适合步行串联圣安娜广场、塞万提斯街和洛佩·德·维加街。若清早先看普拉多大道各馆，可住该区东侧，回太阳门方向需计入上坡步行。"
+    },
+    "source": "https://www.museothyssen.org/visita/horarios-tarifas",
+    "stages": {
+      "es": [
+        "Paseo del Prado 8",
+        "Patio del palacio y plano de las salas",
+        "Planta elegida según época y vuelta al Prado"
+      ],
+      "en": [
+        "Paseo del Prado 8",
+        "Palace courtyard and gallery plan",
+        "Floor for your chosen period and return to the Prado"
+      ],
+      "zh": [
+        "普拉多大道8号",
+        "宫邸庭院与展厅平面图",
+        "按时期选展层，返程回到普拉多大道"
+      ]
+    }
+  },
+  "plaza-del-callao": {
+    "scene": {
+      "es": "Llega por Preciados para sentir el cambio del corredor comercial estrecho a la amplitud de Gran Vía. En vez de cruzar de inmediato, gira sobre el borde peatonal para comparar la fachada plana del cine con la proa curva de Carrión.",
+      "en": "Approach along Preciados to feel the change from a narrow shopping corridor to broad Gran Vía. Before crossing, turn along the pedestrian edge to compare the cinema’s flat front with Carrión’s curved prow.",
+      "zh": "从普雷西亚多斯街走来，体会狭长购物街突然开向格兰大道的变化。先别过街，沿步行区边缘转身，把影院平直的正面与卡里翁大楼的船首形转角相比较。"
+    },
+    "photography": {
+      "es": "Desde el borde peatonal prueba una vista que reúna los dos edificios de cine. Para fotografiar la proa curva, muévete dentro de la plaza sin bajar a la calzada.",
+      "en": "From the pedestrian edge try framing the two cinema buildings together. For the curved prow, move within the square and stay off the carriageway.",
+      "zh": "从广场步行区尝试让两幢影院建筑同框；拍船首形转角时只在广场内移动，不下车道。"
+    },
+    "hours": {
+      "es": "La visita se realiza en el espacio peatonal de la plaza. Aprovecha las primeras horas del día para observar los detalles sin tanta gente; actos públicos y trabajos municipales pueden modificar los pasos disponibles.",
+      "en": "The visit takes place in the square’s pedestrian area. Early daylight makes details easier to see away from crowds; public events and municipal works may alter available paths.",
+      "zh": "参观在广场步行区进行。清晨人少时更方便看细部，市政工程或公共活动可能临时调整可通行区域。"
+    },
+    "price": {
+      "es": "El paseo por la plaza y la observación de sus elementos exteriores son gratuitos. Las terrazas, comercios o recintos culturales que dan a la plaza tienen condiciones propias.",
+      "en": "Walking through the square and looking at its outdoor features is free. Terraces, businesses and cultural venues around it set their own terms.",
+      "zh": "在广场步行、观看室外景物免费。周边露台、商户及文化场馆分别经营，消费与入场另计。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Plaza_del_Callao",
+    "stages": {
+      "es": [
+        "Entrada por Preciados",
+        "Frente del Cine Callao",
+        "Esquina curva de Carrión hacia Gran Vía"
+      ],
+      "en": [
+        "Arrival along Preciados",
+        "Cine Callao frontage",
+        "Curved Carrión corner towards Gran Vía"
+      ],
+      "zh": [
+        "从普雷西亚多斯街进入",
+        "卡亚俄影院正面",
+        "看卡里翁圆角，再去格兰大道"
+      ]
+    }
+  },
+  "edificio-carrion": {
+    "scene": {
+      "es": "En Callao baja la vista desde el conocido letrero hasta las líneas horizontales del edificio. Sigue con los ojos cómo las ventanas doblan la esquina. El volumen no termina en dos fachadas planas: se presenta como una proa continua.",
+      "en": "At Callao look down from the familiar sign to the horizontal lines below. Follow the windows as they turn around the corner. Rather than two flat fronts meeting, a continuous prow faces the square.",
+      "zh": "从熟悉的招牌向下看，沿水平窗带观察它们怎样绕过街角。这不是两面平墙的生硬相交，而是一个朝广场伸出的连续船首。"
+    },
+    "photography": {
+      "es": "Desde el centro peatonal de Callao deja cielo sobre la coronación. Desplázate unos pasos hacia Jacometrezo para destacar la curva sin incluir todo el rótulo.",
+      "en": "Leave sky above the crown from pedestrian Callao. Move a few steps towards Jacometrezo to emphasise the curve without needing the entire sign.",
+      "zh": "从卡亚俄广场步行区给楼顶留出天空，再往哈科梅特雷索街方向略移，裁去部分招牌以突出转角弧线。"
+    },
+    "hours": {
+      "es": "El exterior se ve desde la zona peatonal durante el paseo. Si te interesa el rótulo iluminado, vuelve al anochecer; los horarios del comercio o cine del inmueble no determinan el acceso a la plaza.",
+      "en": "View the exterior from the pedestrian area. For an illuminated sign return around dusk; retail or cinema hours do not govern access to the square.",
+      "zh": "外观可从步行区观看。想拍发光招牌可黄昏再来。楼内商店或影院营业时间不决定广场开放时间。"
+    },
+    "price": {
+      "es": "La observación desde la plaza es gratuita. El rótulo no dispone de una entrada turística propia; los servicios comerciales en el edificio se pagan por separado.",
+      "en": "Viewing from the square is free. The sign has no separate visitor ticket and commercial services inside have their own prices.",
+      "zh": "从广场观赏建筑与招牌免费，招牌本身不售观光票，楼内商业服务另计。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Edificio_Carri%C3%B3n",
+    "stages": {
+      "es": [
+        "Plaza peatonal del Callao",
+        "Proa curva y rótulo del Capitol",
+        "Gran Vía hacia la torre de Telefónica"
+      ],
+      "en": [
+        "Pedestrian area of Callao",
+        "Curved prow and Capitol sign",
+        "Gran Vía towards the Telefónica tower"
+      ],
+      "zh": [
+        "卡亚俄广场步行区",
+        "船首形转角与影院招牌",
+        "沿格兰大道去电信大楼"
+      ]
+    }
+  },
+  "edificio-telefonica": {
+    "scene": {
+      "es": "Al salir en Gran Vía, levanta primero la vista hacia los retranqueos de la torre y vuelve después al zócalo. Si visitas la fundación, dobla por Fuencarral: llegar bajo la torre no significa haber alcanzado la puerta de exposiciones.",
+      "en": "On Gran Vía look first at the tower’s setbacks, then back down to street level. For the foundation, turn onto Fuencarral. Standing under the tower does not put you at the exhibition entrance.",
+      "zh": "来到格兰大道，先仰望塔身分段退台，再把视线落回街面。参观基金会展厅要转入丰卡拉尔街；站到塔下尚未到展览入口。"
+    },
+    "photography": {
+      "es": "Desde la acera opuesta de Gran Vía fotografía la torre por encima de los edificios contiguos. Desde Fuencarral toma un segundo encuadre de la puerta cultural.",
+      "en": "From across Gran Vía photograph the tower above neighbouring buildings. From Fuencarral take a second view of the cultural entrance.",
+      "zh": "从格兰大道对面拍塔楼高出相邻建筑的轮廓，再去丰卡拉尔街拍文化空间入口。"
+    },
+    "hours": {
+      "es": "La torre se observa desde Gran Vía. Para exposiciones, comprueba la ficha de la muestra y el calendario de Espacio Fundación Telefónica antes de ir a la puerta de Fuencarral.",
+      "en": "The tower is visible from Gran Vía. For exhibitions, check the exhibition listing and Espacio Fundación Telefónica calendar before heading to the Fuencarral door.",
+      "zh": "塔楼从格兰大道可见。参观展览前请查对应展览公告及电信基金会文化空间日历，再前往丰卡拉尔街入口。"
+    },
+    "price": {
+      "es": "La fundación ofrece visitas comentadas gratuitas con reserva y plazas limitadas. Selecciona exposición, idioma y turno; la reserva es independiente de ver el edificio desde la calle.",
+      "en": "The foundation offers free, capacity-limited guided visits by reservation. Choose the exhibition, language and time; no booking is needed for the street view.",
+      "zh": "基金会提供限额免费讲解，须预约展览、语言和场次。从街道欣赏建筑则无需预约。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://espacio.fundaciontelefonica.com/noticia/verano-en-espacio-fundacion-telefonica-nuevo-horario-para-las-visitas-comentadas/",
+    "stages": {
+      "es": [
+        "Gran Vía 28",
+        "Vista de los retranqueos desde la acera opuesta",
+        "Acceso cultural por Fuencarral"
+      ],
+      "en": [
+        "Gran Vía 28",
+        "Tower setbacks from the opposite pavement",
+        "Cultural entrance on Fuencarral"
+      ],
+      "zh": [
+        "格兰大道28号",
+        "从对街看退台塔身",
+        "丰卡拉尔街文化空间入口"
+      ]
+    }
+  },
+  "oratorio-del-caballero-de-gracia": {
+    "scene": {
+      "es": "Mira el ábside desde Gran Vía y rodea el edificio hasta su puerta en Caballero de Gracia. La calle grande y la pequeña enseñan partes distintas del mismo oratorio. Esa doble lectura explica por qué es fácil pasar de largo buscando la entrada.",
+      "en": "View the apse from Gran Vía, then circle to the doorway on Caballero de Gracia. The wide and narrow streets reveal different parts of the same oratory. This explains why the entrance is easy to miss.",
+      "zh": "从格兰大道看后殿，再绕到格拉西亚骑士街的大门。同一祈祷堂在宽街与窄街呈现两种面貌，因此初次来的人很容易错过真正入口。"
+    },
+    "photography": {
+      "es": "Fotografía el ábside desde la acera de Gran Vía. En la calle estrecha encuadra verticalmente la puerta sin bloquearla; dentro, respeta el recogimiento del culto.",
+      "en": "Photograph the apse from the Gran Vía pavement. On the narrow street frame the doorway vertically without blocking it; respect worship inside.",
+      "zh": "在格兰大道人行道拍后殿，到窄街用竖幅拍正门，不占通道，入内请尊重礼拜。"
+    },
+    "hours": {
+      "es": "La portada se observa desde la calle. Para entrar, comprueba el aviso de culto en la puerta; una misa, exposición del Santísimo u oficio de la comunidad puede cambiar el acceso turístico.",
+      "en": "View the entrance from the street. Check the worship notice before entering; Mass, adoration or a community service can change visitor access.",
+      "zh": "建筑入口从街面即可观察。想入内先看门口礼拜公告；弥撒、朝拜或团体宗教仪式会影响游客通行。"
+    },
+    "price": {
+      "es": "La parada exterior es libre. En el templo sigue las indicaciones sobre acceso, visita organizada y donativo voluntario. Los espacios de clausura se rigen por las normas de la comunidad.",
+      "en": "The exterior stop is free. Inside, follow the religious community’s arrangements for admission, organised visits and voluntary offerings; enclosed religious areas have their own rules.",
+      "zh": "外部参观免费。入堂、组织导览与自愿捐赠遵守宗教团体的安排，修院内院有独立的通行规定。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/real-oratorio-del-caballero-de-gracia",
+    "stages": {
+      "es": [
+        "Ábside visible desde Gran Vía",
+        "Vuelta a la calle Caballero de Gracia",
+        "Puerta del número 5 y aviso de culto"
+      ],
+      "en": [
+        "Apse seen from Gran Vía",
+        "Walk around to Calle Caballero de Gracia",
+        "Number 5 entrance and worship notice"
+      ],
+      "zh": [
+        "从格兰大道看后殿",
+        "绕行格拉西亚骑士街",
+        "5号入口与礼拜公告"
+      ]
+    }
+  },
+  "edificio-metropolis": {
+    "scene": {
+      "es": "En la confluencia de Alcalá y Gran Vía mira primero el remate alado, después baja por la cúpula hasta las columnas. En pocos metros la perspectiva cambia del perfil estrecho de la esquina a la longitud de sus dos fachadas.",
+      "en": "At the junction of Alcalá and Gran Vía find the winged figure, then follow the dome down to the columns. A few steps change the view from the narrow profile of the corner to the length of its two fronts.",
+      "zh": "在阿尔卡拉街与格兰大道交口，先找带翼雕像，再沿穹顶向下看到柱廊。移几步，便能从窄转角的正面换到两侧立面延伸的视角。"
+    },
+    "photography": {
+      "es": "Desde la acera del Círculo busca una vista despejada del remate alado. Camina hacia Cibeles para incluir la bifurcación de las dos calles sin entrar en el tráfico.",
+      "en": "From the Círculo pavement seek an uncluttered view of the winged figure. Walk towards Cibeles to include the fork of the streets from outside the traffic.",
+      "zh": "从美术协会一侧人行道拍顶部带翼雕像，再向西贝莱斯方向移动，在车流之外把两街分岔纳入画面。"
+    },
+    "hours": {
+      "es": "La esquina de Alcalá se puede contemplar en un paseo. Desde 2026 Club Metrópolis reúne espacios gastronómicos y un hotel; los horarios de esos servicios se consultan con el establecimiento.",
+      "en": "The Alcalá corner is visible on a city walk. Since 2026 Club Metrópolis has housed dining spaces and a hotel; check each service’s hours directly with the business.",
+      "zh": "从阿尔卡拉街口可观赏外观。自2026年起，大都会俱乐部设有餐饮空间及酒店，这些服务各有营业时间。"
+    },
+    "price": {
+      "es": "No se compra entrada para la vista desde la vía pública. Restauración, alojamiento y actos interiores tienen sus propias reservas y precios.",
+      "en": "There is no ticket for the public street view. Dining, accommodation and indoor events have their own reservations and prices.",
+      "zh": "从公共街道观看外观免费。餐饮、住宿与内部活动分别预约和计价。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://www.esmadrid.com/informacion-turistica/edificio-metropolis",
+    "stages": {
+      "es": [
+        "Cruce de Alcalá y Gran Vía",
+        "Cúpula y estatua alada desde la acera",
+        "Círculo de Bellas Artes al otro lado de Alcalá"
+      ],
+      "en": [
+        "Junction of Alcalá and Gran Vía",
+        "Dome and winged figure from the pavement",
+        "Círculo de Bellas Artes across Alcalá"
+      ],
+      "zh": [
+        "阿尔卡拉街与格兰大道路口",
+        "从人行道看穹顶与带翼人物",
+        "前往阿尔卡拉街对面的美术协会"
+      ]
+    }
+  },
+  "circulo-de-bellas-artes": {
+    "scene": {
+      "es": "Empieza a pie de calle en Alcalá y memoriza dónde se bifurca Gran Vía. Si subes a la azotea, vuelve a localizar el mismo cruce junto a Minerva. Comparar ambos puntos convierte la panorámica en una lectura concreta de la ciudad.",
+      "en": "Start at street level on Alcalá and note where Gran Vía branches off. If you go to the roof, find that same junction beside Minerva. The comparison turns a panorama into a map you can actually read.",
+      "zh": "先在阿尔卡拉街记下格兰大道分岔的位置。如果上屋顶，再到密涅瓦雕像旁找出同一路口。这样看见的不只是全景，还有自己刚刚走过的城市格局。"
+    },
+    "photography": {
+      "es": "Desde Alcalá toma el edificio de Palacios en contrapicado. En la azotea, cuando esté abierta, deja a Minerva fuera del perfil del Metrópolis para separar los dos iconos.",
+      "en": "From Alcalá take a low view of Palacios’s building. On the rooftop, when open, keep Minerva clear of the Metrópolis silhouette to distinguish both landmarks.",
+      "zh": "从阿尔卡拉街仰拍帕拉西奥斯的建筑。屋顶开放时，取景避免让密涅瓦和大都会大楼的轮廓重叠。"
+    },
+    "hours": {
+      "es": "El mirador publica apertura desde las 10:00; último acceso 00:30 de domingo a jueves y 01:00 viernes y sábado. Antes de acudir revisa avisos por actos o cierres.",
+      "en": "The rooftop lists opening from 10:00, with last entry at 00:30 Sunday–Thursday and 01:00 Friday–Saturday. Check notices for events or closures before setting out.",
+      "zh": "屋顶观景台公布10:00开放，周日至周四最晚00:30入场，周五、周六最晚01:00入场。活动或临时关闭请查当日公告。"
+    },
+    "price": {
+      "es": "La azotea publica 6 € de entrada normal y 5 € reducida con acreditación. Confirma aparte la entrada a una exposición o espectáculo de la sede.",
+      "en": "The rooftop lists €6 standard admission or €5 reduced with proof. Check exhibition and performance admission separately.",
+      "zh": "屋顶观景台普通票6欧元，持证优惠票5欧元。馆内展览与演出票务另查。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://www.circulobellasartes.com/azotea/",
+    "stages": {
+      "es": [
+        "Calle de Alcalá 42",
+        "Taquilla para exposiciones o mirador",
+        "Azotea con Minerva si hay acceso"
+      ],
+      "en": [
+        "Calle de Alcalá 42",
+        "Ticket desk for exhibitions or rooftop",
+        "Rooftop with Minerva if open"
+      ],
+      "zh": [
+        "阿尔卡拉街42号",
+        "展览与观景台售票处",
+        "屋顶开放时去密涅瓦雕像旁看全景"
+      ]
+    }
+  },
+  "fuente-de-cibeles": {
+    "scene": {
+      "es": "Rodea la plaza por las aceras y detente cuando los dos leones dejen de taparse entre sí. Desde un punto más frontal destaca la diosa; desde el lateral aparece con claridad el carro. Una fuente pensada como escultura urbana cambia con cada cruce.",
+      "en": "Follow the pavements until the lions no longer overlap. A frontal view favours the goddess; from the side the chariot becomes clear. A fountain designed as urban sculpture changes with each crossing.",
+      "zh": "沿广场外围步行，直到两只狮子的身形不再互相遮挡。正面看女神更突出，斜侧看则更能辨认战车。把喷泉视为城市雕塑，每次过街都会改变读法。"
+    },
+    "photography": {
+      "es": "Desde el lado de Alcalá busca el carro con el palacio al fondo. En vez de acercarte a la isleta, cambia de esquina por los pasos señalizados para aislar los leones.",
+      "en": "From the Alcalá side frame the chariot with the palace behind it. Use marked crossings to change corners for a view of the lions, staying off the traffic island.",
+      "zh": "从阿尔卡拉街一侧拍战车与身后宫殿，通过有标识的过街点换角度拍狮子，不进入环岛中央。"
+    },
+    "hours": {
+      "es": "Contempla la fuente desde las aceras del paseo. Los desfiles, celebraciones deportivas y cortes de circulación pueden desviar los pasos peatonales. El funcionamiento del agua no es un horario de visita.",
+      "en": "View the fountain from the promenade pavements. Parades, sporting celebrations and traffic restrictions can divert crossings. Fountain operating times are separate from viewing access.",
+      "zh": "沿大道人行道观赏即可。游行、体育庆祝和交通管制可能调整过街路径，喷水时间与能否从街面观看是两回事。"
+    },
+    "price": {
+      "es": "La fuente se ve sin entrada desde el perímetro. Lleva la cámara hacia otra esquina por los pasos habilitados, sin acceder a la isleta del monumento.",
+      "en": "There is no admission charge for viewing from the perimeter. Move to other corners at authorised crossings rather than entering the monument island.",
+      "zh": "从环岛外围参观不收费。换机位请走允许的过街点，不要进入纪念物所在的中央岛。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://es.wikipedia.org/wiki/Fuente_de_Cibeles",
+    "stages": {
+      "es": [
+        "Llegada por Alcalá a la plaza",
+        "Perfil del carro y los leones desde la acera",
+        "Paso peatonal hacia el palacio o el Prado"
+      ],
+      "en": [
+        "Arrival on Alcalá at the square",
+        "Chariot and lions in profile from the pavement",
+        "Marked crossing towards the palace or Prado"
+      ],
+      "zh": [
+        "沿阿尔卡拉街抵达广场",
+        "从人行道看战车与狮子侧面",
+        "经标识过街处去宫殿或普拉多大道"
+      ]
+    }
+  },
+  "palacio-de-cibeles": {
+    "scene": {
+      "es": "Mira la antigua central de comunicaciones desde el lado opuesto de la plaza antes de entrar en CentroCentro. Las torres y pináculos le dan una escala ceremonial que cambia al llegar al atrio. Las exposiciones y el mirador tienen recorridos y accesos propios.",
+      "en": "View the former communications palace from across the square before entering CentroCentro. Towers and pinnacles create a ceremonial scale that changes as you reach the atrium. Exhibitions and the lookout have separate routes and entry arrangements.",
+      "zh": "进入中央文化空间前，先从广场对面看旧通信宫。塔楼与尖饰赋予它庄严的尺度，到了中庭空间感又会变化。展览与观景台的路线和入场办法需分别确认。"
+    },
+    "photography": {
+      "es": "Desde la acera de la plaza encuadra la fuente delante de la fachada. Dentro del atrio mira hacia arriba para una segunda lectura del edificio; respeta las normas de la exposición.",
+      "en": "From the square pavement frame the fountain in front of the façade. Look up from the atrium for another reading of the building and observe exhibition rules.",
+      "zh": "从广场外围人行道用喷泉作前景拍立面，进入中庭后仰拍另一种建筑视角，注意展览摄影规定。"
+    },
+    "hours": {
+      "es": "El exterior de la antigua central de correos se ve desde la plaza. Elige en la agenda de CentroCentro la exposición o sesión del mirador antes de ir; el despacho municipal tiene funciones y accesos propios.",
+      "en": "View the former post office from the square. Select the exhibition or lookout session on CentroCentro’s calendar before going. Municipal offices have their own entrances.",
+      "zh": "旧邮政总局外观从广场可见。出发前在 CentroCentro 日历上选择展览或观景台场次；市政办公部分另有出入口。"
+    },
+    "price": {
+      "es": "La vista desde la plaza es gratuita. El acceso a CentroCentro, las exposiciones con entrada y los turnos del mirador se anuncian por separado. Elige el producto antes de hacer la reserva.",
+      "en": "The square view is free. CentroCentro access, ticketed exhibitions and rooftop sessions are listed separately. Select the intended visit before booking.",
+      "zh": "从广场观看免费。文化空间、收费展览及观景台场次分别公布，预约前先选清需要的项目。"
+    },
+    "stay": {
+      "es": "Cerca de Callao es fácil empezar temprano en la parte occidental de Gran Vía y volver desde Sol por Preciados. Si el itinerario termina en Cibeles o el Prado, el entorno de Banco de España acorta el último tramo a pie.",
+      "en": "Callao makes it easy to start on western Gran Vía and walk back from Sol via Preciados. If the day ends at Cibeles or the Prado, the Banco de España area shortens the final walk.",
+      "zh": "住卡亚俄附近，便于从格兰大道西段出发，也可沿普雷西亚多斯街从太阳门走回。若行程结束在西贝莱斯或普拉多大道，住西班牙银行站一带的回程较短。"
+    },
+    "source": "https://www.centrocentro.org/",
+    "stages": {
+      "es": [
+        "Plaza de Cibeles por Alcalá",
+        "Atrio de CentroCentro si está abierto",
+        "Exposición o turno del mirador según la reserva"
+      ],
+      "en": [
+        "Plaza de Cibeles via Alcalá",
+        "CentroCentro atrium when open",
+        "Exhibition or lookout according to the booked slot"
+      ],
+      "zh": [
+        "沿阿尔卡拉街抵达西贝莱斯广场",
+        "开放时参观中庭",
+        "按预约参观展览或观景台"
+      ]
+    }
+  }
+}

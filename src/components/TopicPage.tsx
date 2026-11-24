@@ -2,6 +2,7 @@ import { setRequestLocale } from 'next-intl/server';
 import { SITE_CONFIG } from '@/config/site';
 import type { Locale } from '@/i18n/routing';
 import RichInline from '@/components/RichInline';
+import Hero from '@/components/Hero';
 import NearbyVisit, { nearbyUi } from '@/components/NearbyVisit';
 import { getTopic, type TopicContent } from '@/lib/topics';
 
@@ -89,9 +90,10 @@ export default function TopicPage({
       />
 
       <main>
+        {place && mapUrl && <Hero place={{ title: topic.title[locale], subtitle: topic.description[locale], image: place.photo, alt: place.caption[locale], mapUrl, reviews: labels.reviews, hours: labels.hours }} />}
         <section className="section-padding">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-8">
-            <nav aria-label="Breadcrumb" className="text-sm mb-6 text-[var(--text-muted)]">
+            <nav aria-label={{ en: "Breadcrumb", es: "Ruta de navegación", zh: "面包屑导航" }[locale]} className="text-sm mb-6 text-[var(--text-muted)]">
               <a href={homePath} className="underline-offset-2 hover:underline">
                 {SITE_CONFIG.attractionFullName}
               </a>
@@ -99,10 +101,10 @@ export default function TopicPage({
               <span>{topic.title[locale]}</span>
             </nav>
 
-            <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4">{topic.title[locale]}</h1>
-            <p className="text-lg leading-relaxed text-[var(--text-secondary)] mb-10">
+            {!place && <h1 className="font-display text-3xl sm:text-4xl font-bold mb-4">{topic.title[locale]}</h1>}
+            {!place && <p className="text-lg leading-relaxed text-[var(--text-secondary)] mb-10">
               <RichInline text={topic.intro[locale]} />
-            </p>
+            </p>}
 
             {mapUrl && (
               <div className="flex flex-wrap gap-x-6 gap-y-2 mb-8">
@@ -111,7 +113,7 @@ export default function TopicPage({
               </div>
             )}
 
-            {topic.sections.map((section) => (
+            {!place && topic.sections.map((section) => (
               <section key={section.id ?? section.title[locale]} className="mb-8">
                 <h2 className="font-display text-2xl font-semibold mb-3 mt-10">
                   {section.title[locale]}
@@ -122,7 +124,7 @@ export default function TopicPage({
               </section>
             ))}
 
-            {place && mapUrl && <NearbyVisit place={place} locale={locale} mapUrl={mapUrl} />}
+            {place && mapUrl && <NearbyVisit topic={topic} place={place} locale={locale} mapUrl={mapUrl} />}
 
             <section className="mb-8">
               <h2 className="font-display text-2xl font-semibold mb-3 mt-10">{faqHeading}</h2>

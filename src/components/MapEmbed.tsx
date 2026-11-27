@@ -54,25 +54,7 @@ export default function MapEmbed() {
           </a>
         </div>
 
-        {/* Official tourism link */}
-        <div className="mt-10 p-5 sm:p-6 rounded-xl text-center" style={{ background: 'var(--bg-tertiary)', border: '1px dashed var(--border-color)' }}>
-          <p className="text-sm font-medium mb-2" style={{ color: 'var(--text-primary)' }}>
-            {t('officialTourismTitle')}
-          </p>
-          <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
-            {t('officialTourismPrefix')}
-            <a
-              href={t('officialTourismUrl')}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="underline font-medium"
-              style={{ color: 'var(--accent)' }}
-            >
-              {t('officialTourismLinkText')}
-            </a>
-            {t('officialTourismSuffix')}
-          </p>
-        </div>
+
       </div>
     </section>
   );

@@ -8,7 +8,12 @@
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
-    "backToHome": "Volver al inicio"
+    "backToHome": "Volver al inicio",
+    "nearby": "Visitas cercanas",
+    "guides": "Guías",
+    "sources": "Fuentes",
+    "navigation": "Navegación principal",
+    "menu": "Abrir o cerrar menú"
   },
   "hero": {
     "title": "El Oso y el Madroño (Madrid)",
@@ -23,19 +28,20 @@
     "city": "Madrid",
     "region": "Comunidad de Madrid",
     "country": "España",
-    "separator": "→"
+    "separator": "→",
+    "label": "Ubicación"
   },
   "intro": {
     "title": "Sobre El Oso y el Madroño",
-    "equivalenceStatement": "**El Oso y el Madroño** es el monumento más fotografiado de la **Puerta del Sol**, en pleno centro de **Madrid**. Representa el escudo de la ciudad y se visita de forma gratuita en un espacio público, a pocos pasos de **Plaza Mayor** y del **Barrio de las Letras**.",
+    "equivalenceStatement": "**El Oso y el Madroño** representa el escudo de Madrid. La escultura está en la **Puerta del Sol, junto al inicio de Alcalá**, y se observa desde el espacio público de la plaza.",
     "description": "El Oso y el Madroño es uno de los monumentos más emblemáticos de Madrid. Situado en la famosa Puerta del Sol, este icono representa el escudo de la ciudad y es un punto de encuentro obligado para locales y turistas.",
     "nearbyCluster": "Al visitar **El Oso y el Madroño**, los visitantes pueden explorar con facilidad monumentos históricos y lugares de interés de los alrededores, entre ellos **Puerta del Sol** y **Plaza Mayor**.",
     "visitGuide": {
       "title": "Consejos de visita",
       "items": [
-        "El monumento es accesible las 24 horas del día y es gratuito.",
-        "Es el punto de encuentro más famoso de Madrid.",
-        "Perfecto para una foto recordatoria en el centro de la ciudad."
+        "Localiza la escultura en el lado de Alcalá.",
+        "Deja libre el paso mientras haces fotos.",
+        "Combina Sol con Plaza Mayor o Arenal a pie."
       ]
     },
     "alsoKnownAs": {
@@ -54,7 +60,7 @@
       {
         "id": "history",
         "title": "Historia",
-        "content": "El Oso y el Madroño es una escultura de bronce creada por el artista Antonio Navarro Santafé e inaugurada el 19 de enero de 1967. Para materializar uno de los símbolos de la ciudad, el Ayuntamiento decidió levantarla en el mismo solar que ocupara la histórica Fuente de la Mariblanca, en el centro neurálgico de Puerta del Sol. Representa el oso erguido ante el madroño, figuras procedentes de las armas que la Villa adoptó ya en época de Alfonso VIII. La estatua actual es la tercera versión, instalada en su emplazamiento de referencia en 2009."
+        "content": "La escultura de bronce de Antonio Navarro Santafé se inauguró el 19 de enero de 1967. Representa el oso erguido ante el madroño, dos figuras del escudo de Madrid. El monumento ha cambiado de ubicación dentro de Sol; tras la reforma de la plaza volvió al entorno del inicio de Alcalá."
       },
       {
         "id": "heraldic",
@@ -375,7 +381,8 @@
       "madridMemory": "Memoria de Madrid",
       "madridHeritage": "Monumenta Madrid"
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local u otras agencias oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local u otras agencias oficiales.",
+    "legalNavigation": "Información legal"
   },
   "privacy": {
     "title": "Política de privacidad",
@@ -437,158 +444,73 @@
     "text": "El Oso y el Madroño es un monumento emblemático situado en la Puerta del Sol de Madrid, España. Es una representación de la insignia oficial de la ciudad y un punto de encuentro icónico gestionado y mantenido por el Ayuntamiento de Madrid."
   },
   "amenities": {
-    "title": "Instalaciones y servicios en los alrededores",
-    "subtitle": "Servicios públicos recomendados cerca del monumento (tipos de equipamiento, sin nombres comerciales).",
-    "intro": "La Puerta del Sol concentra una elevada densidad de servicios urbanos públicos y privados, por lo que los visitantes pueden cubrir la mayoría de necesidades habituales sin abandonar el perímetro inmediato. A continuación se enumeran las categorías de equipamiento disponibles en la zona (se describen clases generales, no se recomiendan establecimientos concretos por razones de neutralidad).",
+    "title": "Servicios para una visita a pie",
+    "subtitle": "Prepara la llegada y las pausas alrededor de Sol.",
+    "intro": "La escultura se observa desde la plaza. Para una pausa más larga, organiza el uso de servicios de una estación o establecimiento durante el paseo.",
+    "tip": "Lleva agua para el paseo y organiza las pausas antes de una visita con hora reservada.",
     "items": [
       {
-        "id": "wc",
-        "title": "Aseos públicos y accesibles",
-        "desc": "Existen aseos públicos de pago en las inmediaciones, así como aseos gratuitos disponibles en establecimientos comerciales de acceso público (según normativa municipal). Cuentan habitualmente con cabina accesible silla de ruedas, barras de apoyo y lavabo adaptado; la mayoría dispone también de cambiador de bebé."
+        "id": "arrival",
+        "title": "Accesos de Sol",
+        "desc": "Consulta el plano de accesos y el estado de los ascensores si llevas maleta o carrito. Elige la salida por su recorrido hasta Alcalá, no solo por ser la primera."
       },
       {
-        "id": "water",
-        "title": "Puntos de agua potable",
-        "desc": "Fuentes públicas de agua potable de la red municipal en las plazas y calles adyacentes, ideales para rellenar botellas reutilizables. Funcionan durante todo el año y están mantenidas por el Ayuntamiento."
+        "id": "rest",
+        "title": "Descanso y aseos",
+        "desc": "Antes de pedir en una cafetería, pregunta por el acceso a los aseos y las mesas si son importantes para tu visita."
       },
       {
-        "id": "babycare",
-        "title": "Espacios de lactancia y cuidados infantiles",
-        "desc": "Cambiadores de bebé disponibles en aseos públicos y en la mayoría de centros comerciales cercanos; algunas grandes superficies cuentan también con salas de lactancia privadas climatizadas."
-      },
-      {
-        "id": "accessibility",
-        "title": "Accesibilidad universal",
-        "desc": "Toda la Puerta del Sol cuenta con pavimento sin barreras arquitectónicas, pasos de cebra con semáforo acústico, rampas universales en los edificios públicos colindantes y acceso silla de ruedas a todos los transportes públicos del intercambiador (metro y autobuses). El monumento en sí se sitúa a nivel de acera, sin escalones para aproximarse."
-      },
-      {
-        "id": "wifi",
-        "title": "Conexión Wi‑Fi pública municipal",
-        "desc": "Puntos de acceso Wi‑Fi público gratuito de la red municipal de Madrid disponibles en toda la Puerta del Sol y la Gran Vía, con registro opcional; numerosas cafeterías, centros comerciales y estaciones de metro de la zona ofrecen también conexión inalámbrica abierta a clientes."
-      },
-      {
-        "id": "charge",
-        "title": "Puntos de carga USB y enchufes",
-        "desc": "Columnas de carga USB en bancos públicos pilotos, además de enchufes y puertos de carga disponibles en cafeterías, bibliotecas públicas cercanas, estaciones de metro y centros comerciales de los alrededores para recargar teléfonos, cámaras y powerbanks."
-      },
-      {
-        "id": "atm",
-        "title": "Cajeros automáticos y entidades bancarias",
-        "desc": "Gran densidad de cajeros automáticos de múltiples entidades bancarias en las calles adyacentes, operativos las 24 horas. La mayoría acepta tarjetas Visa, Mastercard y Maestro; algunos dispensan también moneda extranjera."
-      },
-      {
-        "id": "lockers",
-        "title": "Consignas y guardaequipajes",
-        "desc": "Servicios de consigna de equipaje en las inmediaciones de la estación de Atocha (menos de 2 km), así como en establecimientos especializados del centro dedicados exclusivamente a guardaequipajes por horas o por días."
-      },
-      {
-        "id": "seating",
-        "title": "Zonas de descanso y sombra",
-        "desc": "Bancos públicos en la propia Puerta del Sol y plazas vecinas (Plaza Mayor, Plaza de la Puerta del Sol). En los meses de verano los edificios públicos cercanos, bibliotecas municipales y centros comerciales ofrecen también zonas climatizadas de paso para refugiarse del calor."
-      },
-      {
-        "id": "info",
-        "title": "Oficinas de turismo público",
-        "desc": "Oficina municipal de turismo de la ciudad de Madrid en la propia Puerta del Sol, con personal poliglota, folletos, mapas gratuitos, información de transporte y atención a visitantes; también existen puntos de información digital en paneles táctiles distribuidos por la plaza."
+        "id": "tourist",
+        "title": "Información turística en Plaza Mayor",
+        "desc": "El centro de información turística de Plaza Mayor es una parada útil si continúas desde Sol por calle Mayor."
       }
-    ],
-    "tip": "Recuerde que, por tratarse de una de las zonas más concurridas de Madrid, los tiempos de espera en aseos, cajeros y servicios públicos pueden aumentar en horas punta y fechas señaladas (navidad, fiestas de San Isidro, Nochevieja)."
+    ]
   },
   "parking": {
-    "title": "Aparcamiento y movilidad por carretera",
-    "subtitle": "Tipos de estacionamiento disponibles en el centro de Madrid (Sin recomendaciones de marcas ni operadores concretos).",
-    "intro": "La Puerta del Sol se encuentra dentro del área de restricciones de tráfico de la ciudad de Madrid y de la zona peatonal central; no existe aparcamiento en superficie sobre la propia plaza y los vehículos particulares deben optar por parkings subterráneos de las calles adyacentes. Se enumeran a continuación las categorías generales de equipamiento de estacionamiento disponibles.",
+    "title": "Llegar en coche o taxi",
+    "subtitle": "La última parte hasta la escultura se hace a pie.",
+    "intro": "Puerta del Sol es un espacio peatonal protegido. No se permite parar ni aparcar dentro de la plaza.",
+    "tip": "El transporte público evita tener que buscar una entrada de coche cerca de la plaza.",
     "items": [
       {
-        "id": "underground",
-        "title": "Aparcamientos subterráneos públicos",
-        "desc": "Parkings subterráneos de varias plantas gestionados bajo sistemas de concesión administrativa municipal, con acceso por rampa en calles aledañas a la Puerta del Sol (Calle de Alcalá, Carrera de San Jerónimo, Calle del Carmen, Calle Montera, etc.). Ofrecen plazas por horas, mediodía, día completo o abonos temporales, y habitualmente operan 24 horas al día, 365 días al año."
-      },
-      {
-        "id": "ser",
-        "title": "Estacionamiento regulado en superficie (SER)",
-        "desc": "Calles residenciales y comerciales de los barrios de Sol, Centro, Cortes y Justicia cuentan con plazas de estacionamiento regulado de Servicio de Estacionamiento Regulado, con parquímetros de pago por horas o mediante aplicación móvil, con límites horarios máximos en días laborables y tarifas reducidas los sábados por la tarde y domingos."
-      },
-      {
-        "id": "motorbike",
-        "title": "Plazas para motocicletas y ciclomotores",
-        "desc": "Zonas señalizadas de estacionamiento para motocicletas, ciclomotores y patinetes eléctricos en calles aledañas, a menudo sin coste para vehículos de dos ruedas o con bonificaciones. Es aconsejable comprobar la señalización vertical específica de cada vía."
-      },
-      {
-        "id": "bike",
-        "title": "Aparcamiento bicicletas y BiciMAD",
-        "desc": "Estaciones de BiciMAD (servicio público de bicicletas de la Comunidad de Madrid) en las inmediaciones, así como múltiples anclajes metálicos públicos para bicicletas privadas distribuidos por las aceras de Sol y Gran Vía. El centro es también punto de llegada de la mayoría de carriles bici del casco histórico."
+        "id": "parking",
+        "title": "Aparcamiento fuera de la plaza",
+        "desc": "Selecciona un aparcamiento autorizado y consulta su dirección de entrada, altura y condiciones de acceso antes de conducir al centro."
       },
       {
         "id": "taxi",
-        "title": "Paradas oficiales de taxi y VTC",
-        "desc": "No existe parada de taxis dentro de la propia Puerta del Sol, ya que la plaza es un espacio peatonal protegido donde está prohibido estacionar o detenerse en su interior. Las paradas oficiales más cercanas se encuentran en las calles adyacentes (Calle de Alcalá, Carrera de San Jerónimo y Calle del Carmen), junto con puntos de subida para vehículos VTC autorizados por el Ayuntamiento. Los taxis madrileños son de color blanco con una banda roja diagonal en la puerta delantera y disponen de taxímetro visible; pueden solicitarse también por aplicación móvil."
+        "title": "Recogida de taxi o VTC",
+        "desc": "Acuerda un punto permitido fuera de Sol. Los taxis madrileños se reconocen por el vehículo blanco y la banda roja diagonal de la puerta delantera."
       },
       {
-        "id": "pmr",
-        "title": "Plazas de aparcamiento PMR",
-        "desc": "Todos los parkings subterráneos públicos de la zona incluyen plazas reservadas a personas con movilidad reducida debidamente señalizadas, situadas habitualmente en las primeras plazas junto a ascensores y pasillos de acceso. Presentan la tarjeta europea de aparcamiento PMR para su utilización."
-      },
-      {
-        "id": "ev",
-        "title": "Recarga de vehículo eléctrico",
-        "desc": "Puntos de recarga eléctrica rápida y semirrápida disponibles en varios de los parkings subterráneos concesionados del centro, así como puntos municipales de recarga en vías públicas de los barrios adyacentes. La mayoría admite tarjeta contactless o aplicación del operador."
-      },
-      {
-        "id": "dropoff",
-        "title": "Zonas de carga y descarga / parada breve",
-        "desc": "Franjas horarias de carga y descarga en las calles comerciales del perímetro, habitualmente en horario matutino, así como zonas de parada breve de 3 a 5 minutos para recogida y entrega de pasajeros, regulada por señalización horizontal de marcas azules."
+        "id": "access",
+        "title": "Restricciones de circulación",
+        "desc": "Comprueba las normas municipales que correspondan al vehículo y al aparcamiento elegido antes de entrar en Distrito Centro."
       }
-    ],
-    "tip": "Recuerde que la Puerta del Sol pertenece al Área Central de Madrid con restricciones de acceso para vehículos particulares en función de la etiqueta medioambiental DGT; es aconsejable consultar la normativa municipal de tráfico antes de desplazarse en coche propio."
+    ]
   },
   "foodDrink": {
-    "title": "Opciones de restauración y cafeterías",
-    "subtitle": "Categorías de establecimientos disponibles en la zona (descripciones neutras, sin nombres comerciales).",
-    "intro": "La Puerta del Sol y el centro de Madrid concentran una de las mayores densidades de oferta gastronómica de Europa. Con el fin de preservar la neutralidad informativa del sitio, se describen únicamente las clases y géneros de locales que el visitante podrá encontrar, sin recomendar marcas ni establecimientos concretos ni realizar valoraciones comparativas entre ellos.",
+    "title": "Elegir dónde comer y beber",
+    "subtitle": "Tres paradas distintas para organizar el paseo.",
+    "intro": "Elige una parada de bollería, chocolate con churros o tapas según el momento del día y la dirección de tu paseo.",
+    "tip": "Las guías de comida y desayuno comparan estas paradas y enlazan sus páginas de visita.",
     "items": [
       {
+        "id": "pastry",
+        "title": "La Mallorquina",
+        "desc": "Puerta del Sol, 8, junto a calle Mayor. Bollería para llevar y salón en la planta superior."
+      },
+      {
+        "id": "chocolate",
+        "title": "Chocolatería San Ginés",
+        "desc": "Pasadizo de San Ginés, 5, en el entorno de Arenal. Una parada para chocolate con churros."
+      },
+      {
         "id": "tapas",
-        "title": "Tabernas y bares de tapas",
-        "desc": "Género tradicional madrileño: locales de pequeño o mediano tamaño en los que se sirven raciones y tapas acompañadas de vino blanco, cerveza, vermut o refrescos. Predominan horarios corrido de mañana a tarde, con parada opcional entre horas según cada establecimiento. Es frecuente la tapa de cortesía con consumición en muchos de ellos."
-      },
-      {
-        "id": "sitdown",
-        "title": "Restaurantes con servicio a la mesa",
-        "desc": "Locales con mesa asignada y carta, en una horquilla de precios muy amplia que va desde los menús del día económicos hasta la alta cocina. La mayoría acepta reserva previa por teléfono o por internet y muchos disponen también de menú degustación. Toda la gama culinaria española e internacional está representada en la zona."
-      },
-      {
-        "id": "takeaway",
-        "title": "Comida para llevar y comida rápida",
-        "desc": "Establecimientos dedicados exclusivamente a venta para llevar (pizzas, hamburguesas, bocadillos, sushi, kebab, ensaladas, bocatas de calamares y otros géneros urbanos), así como cadenas internacionales y locales de productos precocinados para consumir en la calle o en el alojamiento."
-      },
-      {
-        "id": "vegetarian",
-        "title": "Opciones vegetarianas, veganas y especiales",
-        "desc": "Número creciente de locales con menús vegetarianos o veganos 100 %, así como platos sin gluten, sin lactosa y adaptados a otras alergias alimentarias en la mayor parte de restaurantes de la zona. Muchos locales informan de alérgenos según normativa europea de información al consumidor."
-      },
-      {
-        "id": "cafe",
-        "title": "Cafeterías y pastelerías",
-        "desc": "Cafeterías de estilo tradicional madrileño con servicio de desayuno, almuerzo, merienda y copas, así como pastelerías y panaderías que ofrecen bollería, napolitanas, roscón de Reyes en temporada navideña, ensaimadas y otros dulces típicos madrileños y españoles."
-      },
-      {
-        "id": "brunch",
-        "title": "Brunch y cafeterías de especialidad",
-        "desc": "Locales especializados en brunch (fin de semana, generalmente sábado y domingo de 11 a 16 h) con huevos, tostadas, crepes, tortitas, aguacate, zumos naturales y cafés de origen, así como cafeterías de especialidad con cafetera espresso, aeropress, pour-over, cold brew y otras modalidades."
-      },
-      {
-        "id": "icecream",
-        "title": "Heladerías y granizados",
-        "desc": "Heladerías artesanales de temporada, ofreciendo sabores clásicos y combinados, sorbetes, yogures helados, copas, batidos y granizados. Funcionan sobre todo en primavera y verano, aunque varias de las principales cadenas permanecen abiertas todo el año."
-      },
-      {
-        "id": "nightlife",
-        "title": "Opciones nocturnas y choterías",
-        "desc": "Bares y locales de copas abiertos hasta la madrugada en las calles vecinas (Huertas, Sol, Gran Vía, Tribunal), así como choterías, bares de copas con música, terrazas climatizadas y locales de copas temáticas, sujetos siempre a la ordenanza municipal de ruidos y horarios de cierre."
+        "title": "Casa Labra y San Miguel",
+        "desc": "Casa Labra está en Tetuán, 12, para bacalao; San Miguel queda junto a Plaza Mayor para comparar puestos."
       }
-    ],
-    "tip": "En fechas de alta demanda (navidad, Semana Santa, San Isidro, fin de semana largo, etc.) muchos restaurantes con servicio a la mesa requieren reserva previa; el servicio de tapas y el régimen de locales de paso admiten normalmente espera sin reserva."
+    ]
   },
   "lodging": {
     "title": "Tipos de alojamiento disponibles en el centro",
@@ -639,62 +561,27 @@
     "tip": "Las tarifas en el centro de Madrid son dinámicas y dependen de la temporada navideña, Semana Santa, ferias (Feria del Libro, ARCO, FITUR), San Isidro y eventos deportivos; se recomienda comparar precios en varios distribuidores autorizados con suficiente antelación."
   },
   "services": {
-    "title": "Servicios esenciales en las inmediaciones",
-    "subtitle": "Categorías de establecimientos de primera necesidad cercanos; sin recomendaciones comerciales.",
-    "intro": "El distrito Centro y su nodo Puerta del Sol cuentan con una de las densidades más elevadas de servicios de primera necesidad de toda España. A continuación se enumeran las clases generales de servicios a disposición del visitante, sin recomendar establecimientos ni marcas concretas por razones de neutralidad editorial.",
+    "title": "Preparativos para el centro",
+    "subtitle": "Lleva lo necesario para caminar entre las plazas.",
+    "intro": "Organiza equipaje, teléfono y punto de encuentro antes de empezar; así puedes dedicar el paseo a los monumentos.",
+    "tip": "Mantén documentos y pertenencias cerca del cuerpo en las zonas concurridas.",
     "items": [
       {
-        "id": "grocery",
-        "title": "Supermercados, supermercados de conveniencia y alimentación",
-        "desc": "Supermercados de gama media y gran superficie con horario corrido, así como tiendas de conveniencia 24 horas en puntos estratégicos del centro. Ofrecen alimentos frescos, congelados, productos de limpieza, bebidas, artículos de higiene y cosmética básica, entre otros; muchos disponen de servicio de recarga tarjeta transporte y venta de carga para móviles."
+        "id": "meeting",
+        "title": "Punto de encuentro",
+        "desc": "Acuerda el lado de la escultura junto a Alcalá y una hora; decir solo «Sol» deja muchas salidas y espacios posibles."
       },
       {
-        "id": "pharmacy",
-        "title": "Farmacias y servicio nocturno",
-        "desc": "Red muy densa de farmacias comunitarias en todas las calles vecinas de la Puerta del Sol, incluidas farmacias de guardia nocturnas y dominicales según rotación del Colegio Oficial de Farmacéuticos. Algunas cuentan con servicio de parafarmacia, dermocosmética, material de curas y vacunas sin receta para viajeros."
+        "id": "phone",
+        "title": "Mapa y batería",
+        "desc": "Guarda el recorrido y la dirección antes de salir de la estación. Lleva batería suficiente para mapas y billetes."
       },
       {
-        "id": "health",
-        "title": "Atención primaria y urgencias sanitarias",
-        "desc": "Centros de salud del Ayuntamiento de Madrid cercanos, así como servicios de urgencias hospitalarias y clínicas privadas a menos de 2 km de la plaza. Para emergencias sanitarias está disponible el número nacional 112 (atención multilingüe). Existen también ambulancias privadas y servicios de telemedicina para consultas rápidas sin cita."
-      },
-      {
-        "id": "fuel",
-        "title": "Estaciones de servicio y electrolineras",
-        "desc": "Estaciones de servicio convencionales (gasolina 95 y 98, diésel, GLP) en el anillo de circunvalación del centro (Paseo Imperial, Calle de Serrano, etc.), así como electrolineras de carga rápida y ultrarrápida en operadores públicos y privados distribuidos por el distrito Centro y alrededores. La mayoría acepta pago tarjeta contactless."
-      },
-      {
-        "id": "bank",
-        "title": "Sucursales bancarias, cajeros y oficinas de cambio",
-        "desc": "Oficinas de las principales entidades bancarias españolas y algunas internacionales en horario comercial; cajeros automáticos 24 horas distribuidos por todas las calles comerciales; oficinas autorizadas de cambio de moneda extranjera (euros/dólares/libras/yuanes/francos suizos y otras divisas) con tipos competitivos. Se recomienda verificar el horario de cada sucursal, ya que varía en días festivos."
-      },
-      {
-        "id": "post",
-        "title": "Oficinas de correos y envíos",
-        "desc": "Oficinas de Correos Españolas en el centro con servicio nacional e internacional, envío certificado, paquetería, venta de sellos, giros postales y buzón de entrega urgente; así como empresas de paquetería internacional con puntos de recogida y entrega programada distribuidos por el casco histórico."
-      },
-      {
-        "id": "police",
-        "title": "Comisarías de policía, puntos de información y objetos perdidos",
-        "desc": "Comisaría del Cuerpo Nacional de Policía y Jefatura Superior de Policía de Madrid en las inmediaciones; oficina municipal de objetos perdidos del Ayuntamiento; además de la presencia habitual de agentes de la Policía Municipal de Madrid, Policía Nacional y Guardia Civil en eventos multitudinarios. Para emergencias, los números oficiales son 091 (Policía Nacional), 062 (Guardia Civil) y 112 (Emergencias)."
-      },
-      {
-        "id": "repairs",
-        "title": "Talleres de reparación, copistería y cerrajería",
-        "desc": "Cerrajeros de urgencia las 24 horas; talleres de reparación de calzado y marroquinería; talleres de reparación de móviles, ordenadores portátiles y periféricos; copisterías, imprenta rápida y centros de impresión a color con escáner, encuadernación y envío por correo; y peluquerías y barberías de barrio con servicios de urgencia y corte sin cita."
-      },
-      {
-        "id": "laundry",
-        "title": "Lavanderías automáticas y tintorerías",
-        "desc": "Lavanderías autoservicio de moneda o tarjeta, con lavadoras y secadoras industriales; tintorerías de ropa delicada, plancha, limpieza en seco y arreglos de costura; varias se encuentran a menos de 5 minutos caminando de la Puerta del Sol y permanecen abiertas hasta tarde en horario comercial."
-      },
-      {
-        "id": "lostfound",
-        "title": "Servicio municipal de objetos perdidos",
-        "desc": "Punto de atención a ciudadanos y visitantes donde declarar la pérdida o recogida de objetos extraviados en la vía pública (documentos, tarjetas, carteras, móviles, equipajes, abrigos, etc.). Gestionado por el Ayuntamiento de Madrid, cuenta con sede física centralizada y formulario web de declaración telemática."
+        "id": "luggage",
+        "title": "Equipaje",
+        "desc": "Si necesitas consigna, reserva un servicio concreto y comprueba su dirección y horario antes de desplazarte con maletas."
       }
-    ],
-    "tip": "En caso de pérdida de documentos de identidad, pasaporte o tarjeta sanitaria se recomienda ponerse en contacto inmediatamente con la comisaría más cercana (091 / 112) o con la embajada o consulado correspondiente si se trata de ciudadanos extranjeros."
+    ]
   },
   "photoEtiquette": {
     "title": "Consejos fotográficos, protocolo y buenas prácticas",

@@ -12,7 +12,7 @@ const GROUPS: Record<Locale, Group[]> = {
     },
     {
       title: 'Comer y beber cerca',
-      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol'],
+      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol', 'casa-labra', 'mercado-san-miguel'],
     },
     {
       title: 'Ver cerca',
@@ -30,7 +30,7 @@ const GROUPS: Record<Locale, Group[]> = {
     },
     {
       title: 'Eat and drink nearby',
-      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol'],
+      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol', 'casa-labra', 'mercado-san-miguel'],
     },
     {
       title: 'See nearby',
@@ -48,7 +48,7 @@ const GROUPS: Record<Locale, Group[]> = {
     },
     {
       title: '周边吃喝',
-      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol'],
+      items: ['comer', 'desayunar-cerca-sol', 'la-mallorquina', 'chocolateria-san-gines', 'tapas-cerca-sol', 'casa-labra', 'mercado-san-miguel'],
     },
     {
       title: '周边游玩',
@@ -104,7 +104,7 @@ export default function TopicLinks({ locale }: { locale: Locale }) {
 
   return (
     <>
-      <TopicGroupLinks groups={GROUPS[locale]} locale={locale} heading={heading} />
+      <TopicGroupLinks groups={GROUPS[locale]} locale={locale} heading={heading} id="guides" />
       <TopicGroupLinks groups={nearbyGroups(locale)} locale={locale} heading={nearbyTitle[locale]} id="nearby" />
     </>
   );

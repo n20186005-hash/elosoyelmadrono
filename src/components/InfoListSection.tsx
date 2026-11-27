@@ -1,4 +1,4 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 import RichInline from './RichInline';
 
 type SectionKey =
@@ -16,6 +16,7 @@ type Props = {
 
 export default function InfoListSection({ sectionKey, alternate = false }: Props) {
   const t = useTranslations(sectionKey);
+  const locale = useLocale();
   const messages = useMessages() as any;
   const section = messages?.[sectionKey] as
     | {
@@ -33,14 +34,7 @@ export default function InfoListSection({ sectionKey, alternate = false }: Props
     ? { background: 'var(--bg-primary)' }
     : { background: 'var(--bg-secondary)' };
 
-  const tipPrefix: Record<SectionKey, string> = {
-    amenities: 'ℹ️  Consejo：',
-    parking: 'ℹ️  Recordatorio：',
-    foodDrink: 'ℹ️  Sugerencia：',
-    lodging: 'ℹ️  Nota：',
-    services: '⚠️  En caso de emergencia：',
-    photoEtiquette: '🧹  Buenas prácticas：',
-  };
+  const tipPrefix = locale === 'es' ? 'Consejo: ' : locale === 'en' ? 'Tip: ' : '提示：';
 
   return (
     <section className="section-padding" style={bgStyle}>
@@ -121,7 +115,7 @@ export default function InfoListSection({ sectionKey, alternate = false }: Props
               style={{ color: 'var(--text-secondary)' }}
             >
               <strong className="font-semibold" style={{ color: 'var(--text-primary)' }}>
-                {tipPrefix[sectionKey]}
+                {tipPrefix}
               </strong>
               <RichInline text={t('tip')} />
             </p>

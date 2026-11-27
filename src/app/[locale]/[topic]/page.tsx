@@ -50,7 +50,7 @@ export async function generateMetadata({
       ...(photo && { images: [{ url: photo, alt: data.title[currentLocale] }] }),
       locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'es_ES',
     },
-    ...(photo && { twitter: { card: 'summary_large_image', title, description, images: [photo] } }),
+    twitter: { card: 'summary_large_image', title, description, images: [photo ?? SITE_CONFIG.heroImage] },
   };
 }
 

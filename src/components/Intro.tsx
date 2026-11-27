@@ -13,7 +13,7 @@ export default function Intro() {
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
         <nav
-          aria-label="Geographic breadcrumb"
+          aria-label={tCrumb('label')}
           className="mb-6 text-sm tracking-wide flex flex-wrap items-center gap-2"
           style={{ color: 'var(--text-muted)' }}
         >
@@ -41,12 +41,6 @@ export default function Intro() {
           <RichInline text={t('equivalenceStatement')} />
         </p>
 
-        <p
-          className="text-lg leading-relaxed mb-6"
-          style={{ color: 'var(--text-secondary)' }}
-        >
-          {t('description')}
-        </p>
 
         <p
           className="text-lg leading-relaxed mb-12"

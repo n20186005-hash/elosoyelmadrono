@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "node scripts/check-content.mjs",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@swc/helpers": "0.5.24",

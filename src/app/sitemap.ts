@@ -14,14 +14,14 @@ function alt(p: string) {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPaths = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
+  const staticPaths = ['', '/sources', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
   const urls: MetadataRoute.Sitemap = [];
 
   for (const p of staticPaths) {
     for (const locale of locales) {
       urls.push({
         url: `${base}/${locale}${p}`,
-        lastModified: new Date(),
+        lastModified: new Date('2026-11-27T00:00:00Z'),
         alternates: alt(p),
         priority: p === '' ? 1 : 0.4,
       });
@@ -33,7 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of locales) {
       urls.push({
         url: `${base}/${locale}${p}`,
-        lastModified: new Date(),
+        lastModified: new Date('2026-11-27T00:00:00Z'),
         alternates: alt(p),
         priority: 0.7,
       });

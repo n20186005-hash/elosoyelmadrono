@@ -41,9 +41,9 @@ export async function generateMetadata({
     zh: `${SITE_CONFIG.attractionFullName} - ${SITE_CONFIG.cityName} 旅行指南`,
   };
   const ogDescriptions: Record<string, string> = {
-    es: `Guía oficial del visitante para ${SITE_CONFIG.attractionFullName} en ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}.`,
-    en: `Official visitor guide to ${SITE_CONFIG.attractionFullName} in ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}.`,
-    zh: `${SITE_CONFIG.attractionFullName} 官方游客指南，位于${country} ${SITE_CONFIG.stateProvince} ${SITE_CONFIG.cityName}。`,
+    es: `Guía de viaje para ${SITE_CONFIG.attractionFullName} en ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}.`,
+    en: `Travel guide to ${SITE_CONFIG.attractionFullName} in ${SITE_CONFIG.cityName}, ${SITE_CONFIG.stateProvince}, ${country}.`,
+    zh: `${SITE_CONFIG.attractionFullName} 旅行指南，位于${country} ${SITE_CONFIG.stateProvince} ${SITE_CONFIG.cityName}。`,
   };
   const ogImageAlts: Record<string, string> = {
     es: `${SITE_CONFIG.attractionFullName} en ${SITE_CONFIG.cityName}`,
@@ -67,7 +67,7 @@ export async function generateMetadata({
     openGraph: {
       title: ogTitles[locale],
       description: ogDescriptions[locale],
-      url: baseUrl,
+      url: selfUrl,
       siteName: SITE_CONFIG.attractionFullName,
       locale: locale === 'zh' ? 'zh_CN' : locale === 'en' ? 'en_US' : 'es_ES',
       type: 'website',
@@ -138,8 +138,6 @@ export default async function LocaleLayout({
             `,
           }}
         />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

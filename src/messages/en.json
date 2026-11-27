@@ -8,7 +8,12 @@
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "nearby": "Nearby",
+    "guides": "Guides",
+    "sources": "Sources",
+    "navigation": "Main navigation",
+    "menu": "Open or close menu"
   },
   "hero": {
     "title": "El Oso y el Madroño (Madrid)",
@@ -23,19 +28,20 @@
     "city": "Madrid",
     "region": "Community of Madrid",
     "country": "Spain",
-    "separator": "→"
+    "separator": "→",
+    "label": "Location"
   },
   "intro": {
     "title": "About El Oso y el Madroño",
-    "equivalenceStatement": "**El Oso y el Madroño** is the most photographed monument in **Puerta del Sol**, right in the heart of **Madrid**. It represents the city's coat of arms and is free to visit in a public space, just steps from **Plaza Mayor** and the **Literary Quarter**.",
+    "equivalenceStatement": "**El Oso y el Madroño** represents Madrid’s coat of arms. The sculpture stands in **Puerta del Sol by the start of Calle de Alcalá** and can be viewed from the public square.",
     "description": "El Oso y el Madroño is one of Madrid's most iconic monuments. Located in the famous Puerta del Sol, this symbol represents the city's coat of arms and is a must-visit meeting point for locals and tourists alike.",
     "nearbyCluster": "When visiting **El Oso y el Madroño**, visitors can easily explore surrounding historical landmarks and points of interest, including **Puerta del Sol** and **Plaza Mayor**.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The monument is accessible 24 hours a day and is free.",
-        "It is the most famous meeting point in Madrid.",
-        "Perfect for a memorable photo in the city center."
+        "Find the statue at the Alcalá end of the square.",
+        "Keep the walking route clear while taking photographs.",
+        "Combine Sol with Plaza Mayor or Arenal on foot."
       ]
     },
     "alsoKnownAs": {
@@ -54,7 +60,7 @@
       {
         "id": "history",
         "title": "Historical Background",
-        "content": "El Oso y el Madroño is a bronze sculpture created by the artist Antonio Navarro Santafé and inaugurated on 19 January 1967. To materialise one of the city's symbols, the Madrid City Council decided to erect it on the very site that had once held the historic Fuente de la Mariblanca, at the nerve centre of Puerta del Sol. It depicts the bear standing before the strawberry tree (madroño), figures taken from the arms adopted by the Villa as early as the reign of Alfonso VIII. The present statue is the third version, reinstalled at its reference location in 2009."
+        "content": "Antonio Navarro Santafé’s bronze sculpture was unveiled on 19 January 1967. It shows the bear standing against the strawberry tree, two figures from Madrid’s coat of arms. The monument has moved within Sol; after the square’s refurbishment it returned to the area by the start of Alcalá."
       },
       {
         "id": "heraldic",
@@ -375,7 +381,8 @@
       "madridMemory": "Memoria de Madrid",
       "madridHeritage": "Monumenta Madrid"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "legalNavigation": "Legal information"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -437,158 +444,73 @@
     "text": "El Oso y el Madroño is an iconic monument located in Puerta del Sol in Madrid, Spain. It is a representation of the official insignia of the city and an iconic meeting point managed and maintained by the Madrid City Council."
   },
   "amenities": {
-    "title": "Amenities & public facilities around the monument",
-    "subtitle": "Public services available nearby (types of infrastructure only; no commercial names).",
-    "intro": "Puerta del Sol concentrates an extremely high density of both public and private urban services, so visitors can cover most everyday needs without leaving the immediate surroundings. Below is a category-based inventory of the types of facilities available in the area (general classes are described; no specific venues are recommended in order to preserve editorial neutrality).",
+    "title": "Services for a walking visit",
+    "subtitle": "Plan your arrival and breaks around Sol.",
+    "intro": "The statue is viewed from the square. For a longer stop, plan station or venue facilities into your walk.",
+    "tip": "Carry water for your walk and plan breaks before a timed visit.",
     "items": [
       {
-        "id": "wc",
-        "title": "Public and accessible restrooms",
-        "desc": "Pay-per-use public restrooms in the immediate vicinity, as well as free restrooms open to the public inside retail and food-service establishments (according to municipal regulations). Most include an accessible wheelchair cabin, grab bars, an adapted sink, and a baby-changing table."
+        "id": "arrival",
+        "title": "Sol station access",
+        "desc": "Check access maps and lift status with luggage or a pushchair. Choose an exit by its route towards Alcalá rather than simply taking the first one."
       },
       {
-        "id": "water",
-        "title": "Drinking water fountains",
-        "desc": "Public mains-fed drinking water fountains maintained by the Madrid City Council, located in adjacent streets and squares and ideal for refilling reusable bottles. They operate year-round."
+        "id": "rest",
+        "title": "Breaks and toilets",
+        "desc": "Before ordering at a café, ask about toilet access and seating if these are important to your visit."
       },
       {
-        "id": "babycare",
-        "title": "Breastfeeding and infant care spaces",
-        "desc": "Baby-changing facilities in public restrooms and inside most nearby shopping centres; a few large retail venues also offer private, air-conditioned nursing rooms."
-      },
-      {
-        "id": "accessibility",
-        "title": "Universal accessibility",
-        "desc": "The entire Puerta del Sol area has barrier-free paving, acoustically signalled pedestrian crossings, universal ramps on all neighbouring public buildings, and step-free access to metro and buses at the Sol interchange. The monument itself is at sidewalk level with no steps."
-      },
-      {
-        "id": "wifi",
-        "title": "Municipal public Wi‑Fi",
-        "desc": "Free public Wi‑Fi hotspots of the Madrid municipal network available across Puerta del Sol and Gran Vía with optional registration. Many cafés, department stores and metro stations around the area also offer open wireless access to customers."
-      },
-      {
-        "id": "charge",
-        "title": "USB charging points and power outlets",
-        "desc": "Pilot USB charging columns on public benches plus additional power outlets and charging ports available in cafés, nearby public libraries, metro stations and surrounding shopping malls to recharge phones, cameras and power banks."
-      },
-      {
-        "id": "atm",
-        "title": "ATMs and bank branches",
-        "desc": "Very high density of automated teller machines from multiple banking entities on adjacent streets, generally available 24/7. Most accept Visa, Mastercard and Maestro; some also dispense foreign currency."
-      },
-      {
-        "id": "lockers",
-        "title": "Luggage lockers and left-luggage facilities",
-        "desc": "Left-luggage services in the immediate surroundings of Atocha station (less than 2 km away), as well as dedicated hourly or daily luggage-storage establishments located in the city centre."
-      },
-      {
-        "id": "seating",
-        "title": "Seating and shaded rest areas",
-        "desc": "Public benches on Puerta del Sol itself and on nearby squares (Plaza Mayor, neighbouring plazas). In summer, nearby public buildings, municipal libraries and department stores also provide air-conditioned through-access areas to shelter from the heat."
-      },
-      {
-        "id": "info",
-        "title": "Public tourist information offices",
-        "desc": "Municipal Madrid Tourist Office located on Puerta del Sol itself, with multilingual staff, free maps and leaflets, transport information and visitor assistance; digital touch-screen information points are also distributed around the square."
+        "id": "tourist",
+        "title": "Tourist information at Plaza Mayor",
+        "desc": "The Plaza Mayor tourist information centre is a useful stop when continuing from Sol along Calle Mayor."
       }
-    ],
-    "tip": "Note that, as one of the busiest areas in Madrid, waiting times at restrooms, cash machines and other public services can increase significantly at peak hours and during key dates (Christmas, San Isidro festival, New Year's Eve)."
+    ]
   },
   "parking": {
-    "title": "Parking & road mobility",
-    "subtitle": "Types of parking available in central Madrid (no specific brands or operators recommended).",
-    "intro": "Puerta del Sol lies inside Madrid's traffic-restricted city-centre zone and the main pedestrian precinct; there is no on-street parking directly on the square itself and private cars must use underground car parks in adjacent streets. Below are the general categories of parking infrastructure available in the area.",
+    "title": "Arriving by car or taxi",
+    "subtitle": "The final part to the statue is on foot.",
+    "intro": "Puerta del Sol is a protected pedestrian space. Stopping and parking inside the square are prohibited.",
+    "tip": "Public transport avoids having to find a vehicle entrance near the square.",
     "items": [
       {
-        "id": "underground",
-        "title": "Public underground car parks",
-        "desc": "Multi-storey underground car parks operated under municipal administrative concession, with ramp access from streets adjoining Puerta del Sol (Calle de Alcalá, Carrera de San Jerónimo, Calle del Carmen, Calle Montera, etc.). They offer hourly, half-day, full-day and season-ticket rates and are normally open 24/7, 365 days a year."
-      },
-      {
-        "id": "ser",
-        "title": "Regulated on-street parking (SER)",
-        "desc": "Residential and commercial streets in the Sol, Centro, Cortes and Justicia neighbourhoods operate the SER regulated parking scheme, with pay-and-display parking meters or mobile app payment, maximum time limits on working days and reduced rates on Saturday afternoons and Sundays."
-      },
-      {
-        "id": "motorbike",
-        "title": "Motorcycle and moped bays",
-        "desc": "Signed motorcycle, moped and electric scooter bays on neighbouring streets, often free of charge for two-wheel vehicles or subject to discounts. It is advisable to check the specific vertical traffic signs of each street."
-      },
-      {
-        "id": "bike",
-        "title": "Bicycle parking and BiciMAD stations",
-        "desc": "BiciMAD stations (the regional public bicycle-sharing scheme) in the immediate vicinity, plus multiple public metal bike racks distributed along Sol and Gran Vía sidewalks. The city centre is also the arrival point for most cycle lanes in the historic centre."
+        "id": "parking",
+        "title": "Parking outside the square",
+        "desc": "Choose an authorised car park and check its vehicle entrance, height limit and access conditions before driving into the centre."
       },
       {
         "id": "taxi",
-        "title": "Official taxi and VTC ranks",
-        "desc": "There is no taxi rank inside Puerta del Sol itself, since the square is a protected pedestrian space where stopping and parking are prohibited. The nearest official taxi ranks are on the surrounding streets (Calle de Alcalá, Carrera de San Jerónimo and Calle del Carmen), together with pick-up points for VTC (private hire) vehicles authorised by the City Council. Madrid taxis are white with a red diagonal band on the front door, use a visible taximeter, and can also be booked via mobile apps."
+        "title": "Taxi or private-hire pickup",
+        "desc": "Arrange a permitted pickup outside Sol. Madrid taxis are white with a red diagonal band on the front door."
       },
       {
-        "id": "pmr",
-        "title": "Disabled (PMR) parking bays",
-        "desc": "All public underground car parks in the area include properly signed reserved disabled parking spaces, usually located on the first rows next to lifts and access corridors. A valid European disability parking badge must be displayed to use them."
-      },
-      {
-        "id": "ev",
-        "title": "Electric vehicle charging",
-        "desc": "Fast and semi-fast EV chargers are available in several of the concessionary underground car parks downtown, plus municipal on-street charging points in adjacent neighbourhoods. Most support contactless bank card or operator-app payment."
-      },
-      {
-        "id": "dropoff",
-        "title": "Loading bays and short-term drop-off zones",
-        "desc": "Morning loading/unloading windows in commercial perimeter streets, plus 3–5 minute short-term passenger pick-up and drop-off zones marked with blue horizontal road markings."
+        "id": "access",
+        "title": "Vehicle access restrictions",
+        "desc": "Check the municipal rules for your vehicle and chosen car park before entering Distrito Centro."
       }
-    ],
-    "tip": "Remember that Puerta del Sol falls within Madrid's Central District traffic restriction zone, which limits private-vehicle access according to the DGT environmental sticker label; it is advisable to consult the current municipal traffic regulations before driving a private car into the area."
+    ]
   },
   "foodDrink": {
-    "title": "Food, drink & café options",
-    "subtitle": "Categories of food-service establishments available (neutral descriptions, no commercial names).",
-    "intro": "Puerta del Sol and Madrid's city centre host one of the densest food-and-drink ecosystems in Europe. In order to preserve the site's editorial neutrality, only the general types and genres of venues a visitor can expect to find are described; no specific brands or establishments are compared or recommended.",
+    "title": "Choose where to eat and drink",
+    "subtitle": "Three different stops for your walk.",
+    "intro": "Choose pastries, chocolate with churros or tapas according to the time of day and direction of your walk.",
+    "tip": "The food and breakfast guides compare these stops and link their visit pages.",
     "items": [
       {
+        "id": "pastry",
+        "title": "La Mallorquina",
+        "desc": "Puerta del Sol, 8, beside Calle Mayor. Pastries to take away and an upstairs café room."
+      },
+      {
+        "id": "chocolate",
+        "title": "Chocolatería San Ginés",
+        "desc": "Pasadizo de San Ginés, 5, by Arenal. A stop for chocolate with churros."
+      },
+      {
         "id": "tapas",
-        "title": "Tapas bars and taverns",
-        "desc": "A classic Madrid format: small to mid-sized venues serving small plates (raciones) and tapas, paired with white wine, beer, vermouth or soft drinks. Most run a continuous daytime service with optional afternoon closure. A tapas is often offered as a courtesy with every drink purchased."
-      },
-      {
-        "id": "sitdown",
-        "title": "Full-service table restaurants",
-        "desc": "Seated, waiter-service restaurants with printed menus, covering a very wide price range from affordable daily set menus to haute cuisine. Most accept reservations by phone or online; many also offer tasting menus. The full spectrum of Spanish and international cuisines is represented within a short walking radius."
-      },
-      {
-        "id": "takeaway",
-        "title": "Takeaways and quick-service restaurants",
-        "desc": "Dedicated takeaway outlets (pizza, burgers, sandwiches, sushi, kebab, salads, calamari sandwiches and other urban formats), as well as international chains and local quick-service establishments offering pre-cooked food to eat on the street or back at the visitor's accommodation."
-      },
-      {
-        "id": "vegetarian",
-        "title": "Vegetarian, vegan and special-diet options",
-        "desc": "A growing number of fully vegetarian or vegan venues, plus gluten-free, lactose-free and allergy-adapted dishes available in most restaurants in the area. Most establishments disclose allergen information according to EU consumer-information regulations."
-      },
-      {
-        "id": "cafe",
-        "title": "Cafés and pastries",
-        "desc": "Traditional Madrid-style cafés serving breakfast, elevenses, afternoon tea and evening drinks, together with pastry shops and bakeries offering croissants, puff pastry, seasonal Roscón de Reyes Christmas cake, ensaimadas and other typical Spanish and Madrid sweets."
-      },
-      {
-        "id": "brunch",
-        "title": "Brunch and speciality coffeehouses",
-        "desc": "Brunch-focused venues (weekends, typically Saturday and Sunday 11:00–16:00) with egg dishes, toast, crêpes, pancakes, avocado, fresh juices and origin coffee; plus speciality coffeehouses offering espresso, AeroPress, pour-over, cold brew and other alternative brew methods."
-      },
-      {
-        "id": "icecream",
-        "title": "Ice cream parlours and slushy shops",
-        "desc": "Artisanal seasonal ice cream parlours offering classic and signature flavours, sorbets, frozen yoghurt, sundaes, milkshakes and slushies. They operate mainly in spring and summer, although several major chains remain open all year round."
-      },
-      {
-        "id": "nightlife",
-        "title": "Late-night bars and nightlife formats",
-        "desc": "Bars and pubs open until the early hours in neighbouring streets (Huertas, Sol, Gran Vía, Tribunal), plus rooftop cocktail bars, heated terraces and themed bar concepts, all subject to the municipal noise and closing-hours ordinances."
+        "title": "Casa Labra and San Miguel",
+        "desc": "Casa Labra is at Tetuán, 12, for cod; San Miguel is beside Plaza Mayor for comparing food stalls."
       }
-    ],
-    "tip": "On high-demand dates (Christmas, Holy Week, San Isidro, long weekends, etc.) many full-service restaurants require prior reservation; tapas bars and walk-in venues can usually accommodate waiting customers without a booking."
+    ]
   },
   "lodging": {
     "title": "Accommodation categories in the city centre",
@@ -639,62 +561,27 @@
     "tip": "Rates in central Madrid are dynamic and depend on seasonality (Christmas, Holy Week), trade fairs (Book Fair, ARCO art fair, FITUR tourism fair), San Isidro and sports events; it is advisable to compare prices across multiple authorised channels with sufficient lead time."
   },
   "services": {
-    "title": "Essential neighbourhood services",
-    "subtitle": "Categories of day-to-day necessities available nearby; no commercial recommendations.",
-    "intro": "The Centro district and its Puerta del Sol node support one of the highest densities of essential services anywhere in Spain. Below is an inventory of general service classes available to the visitor, with no specific establishments or brands recommended (editorial neutrality preserved).",
+    "title": "Prepare for the city centre",
+    "subtitle": "Carry what you need to walk between the squares.",
+    "intro": "Arrange luggage, phone charge and a meeting point before starting so the walk can focus on the sights.",
+    "tip": "Keep documents and belongings close in crowded areas.",
     "items": [
       {
-        "id": "grocery",
-        "title": "Grocery stores, supermarkets and convenience shops",
-        "desc": "Midrange and large-format supermarkets with continuous opening hours, plus 24-hour convenience stores at strategic downtown locations. They offer fresh and frozen food, cleaning products, beverages, toiletries and basic cosmetics; many also provide transport-card top-ups and mobile phone recharges."
+        "id": "meeting",
+        "title": "Meeting point",
+        "desc": "Agree on the statue’s Alcalá side and a time; simply saying “Sol” leaves many exits and spaces to search."
       },
       {
-        "id": "pharmacy",
-        "title": "Pharmacies and on-call night service",
-        "desc": "A very dense network of community pharmacies on every adjacent street, including rotating on-call overnight and Sunday pharmacies as published by the Official College of Pharmacists. Many also offer para-pharmacy, dermocosmetics, first-aid supplies and over-the-counter travel vaccines."
+        "id": "phone",
+        "title": "Map and battery",
+        "desc": "Save the route and address before leaving the station. Keep enough phone charge for maps and tickets."
       },
       {
-        "id": "health",
-        "title": "Primary healthcare and emergency services",
-        "desc": "Madrid City Council primary health centres nearby, plus hospital emergency departments and private clinics within 2 km of the square. For medical emergencies the national multilingual helpline 112 is available around the clock. Private ambulances and quick unscheduled telemedicine consultations are also on offer."
-      },
-      {
-        "id": "fuel",
-        "title": "Petrol stations and EV fast-charging hubs",
-        "desc": "Conventional service stations (95/98 petrol, diesel, LPG) on the central ring roads (Paseo Imperial, Calle de Serrano, etc.), plus fast and ultra-fast EV charging hubs run by both public and private operators across the Centro district and its immediate surroundings. Most accept contactless card payment."
-      },
-      {
-        "id": "bank",
-        "title": "Bank branches, cash machines and currency exchange",
-        "desc": "Branches of most Spanish and some international high-street banks during business hours, 24/7 cash machines on every commercial thoroughfare, and licensed foreign-exchange bureaux converting euros/dollars/pounds/yuan/Swiss francs and other currencies at competitive rates. Verify individual holiday opening hours beforehand."
-      },
-      {
-        "id": "post",
-        "title": "Post offices and parcel services",
-        "desc": "Correos Españoles post offices downtown offering domestic and international mail, registered post, parcels, stamps, postal orders and express-delivery drop-off; plus international parcel couriers with scheduled collection and delivery points spread through the historic centre."
-      },
-      {
-        "id": "police",
-        "title": "Police stations, information points and lost-property office",
-        "desc": "A National Police station and the Madrid Provincial Police Headquarters are within walking distance; the City Council also runs a municipal Lost & Found Office. National Police, Municipal Police and Civil Guard maintain a visible presence during large public events. Emergency telephone numbers: 091 (National Police), 062 (Civil Guard), 112 (Emergency Services)."
-      },
-      {
-        "id": "repairs",
-        "title": "Repair shops, copy centres and locksmiths",
-        "desc": "24-hour emergency locksmiths; shoe repair and leather-goods repair workshops; mobile phone, laptop and accessory repair shops; copy/print centres offering scanning, binding and postal mailing; and walk-in barbershops and hair salons for urgent or unscheduled personal grooming."
-      },
-      {
-        "id": "laundry",
-        "title": "Self-service laundrettes and dry cleaners",
-        "desc": "Coin- or card-operated self-service laundrettes with commercial washers and dryers; dry cleaners for delicate garments, ironing, dry cleaning and clothing alterations; several venues are within 5 minutes' walk of Puerta del Sol, often staying open late into the evening."
-      },
-      {
-        "id": "lostfound",
-        "title": "Municipal lost-and-found service",
-        "desc": "Citizen and visitor assistance point where travellers can report or collect items lost in the public domain (identity documents, cards, wallets, mobile phones, luggage, coats, etc.). Managed by the Madrid City Council, it operates a central physical office and an online reporting form."
+        "id": "luggage",
+        "title": "Luggage",
+        "desc": "If you need luggage storage, choose a specific service and check its address and hours before walking there with bags."
       }
-    ],
-    "tip": "If you lose official identification, a passport or a health card, contact the nearest police station immediately (091 / 112); foreign nationals should additionally get in touch with their country's embassy or consular section."
+    ]
   },
   "photoEtiquette": {
     "title": "Photography tips, visitor etiquette & best practice",

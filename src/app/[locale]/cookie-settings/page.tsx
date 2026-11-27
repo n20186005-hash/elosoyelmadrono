@@ -14,14 +14,17 @@ export async function generateMetadata({
   const esUrl = `${baseUrl}/es/cookie-settings`;
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'en' ? enUrl : esUrl;
 
+  const titles: Record<string, string> = {'es': 'Configuración de cookies', 'en': 'Cookie Settings', 'zh': 'Cookie 设置'};
   return {
+    title: `${titles[locale]} | El Oso y el Madroño`,
+    openGraph: { title: titles[locale], url: selfUrl },
     alternates: {
       canonical: selfUrl,
       languages: {
         'zh': zhUrl,
         'en': enUrl,
         'es': esUrl,
-        'x-default': enUrl,
+        'x-default': esUrl,
       },
     },
   };

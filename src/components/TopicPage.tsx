@@ -92,7 +92,7 @@ export default function TopicPage({
       <main>
         {place && mapUrl && <Hero place={{ title: topic.title[locale], subtitle: topic.description[locale], image: place.photo, alt: place.caption[locale], mapUrl, reviews: labels.reviews, hours: labels.hours }} />}
         <section className="section-padding">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 pt-16">
             <nav aria-label={{ en: "Breadcrumb", es: "Ruta de navegación", zh: "面包屑导航" }[locale]} className="text-sm mb-6 text-[var(--text-muted)]">
               <a href={homePath} className="underline-offset-2 hover:underline">
                 {SITE_CONFIG.attractionFullName}
@@ -118,13 +118,15 @@ export default function TopicPage({
                 <h2 className="font-display text-2xl font-semibold mb-3 mt-10">
                   {section.title[locale]}
                 </h2>
-                <p className="leading-relaxed text-[var(--text-secondary)]">
+                <p className="leading-relaxed whitespace-pre-line text-[var(--text-secondary)]">
                   <RichInline text={section.content[locale]} />
                 </p>
               </section>
             ))}
 
             {place && mapUrl && <NearbyVisit topic={topic} place={place} locale={locale} mapUrl={mapUrl} />}
+
+            <p className="text-sm mb-8"><a href={`${homePath}/sources`} className="text-[var(--accent)] underline underline-offset-4">{{ es: 'Fuentes y recursos para esta visita', en: 'Sources and resources for this visit', zh: '本次游览的资料来源与资源' }[locale]}</a></p>
 
             <section className="mb-8">
               <h2 className="font-display text-2xl font-semibold mb-3 mt-10">{faqHeading}</h2>
